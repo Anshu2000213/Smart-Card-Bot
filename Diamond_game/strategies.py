@@ -3,6 +3,7 @@ from typing import List, Optional
 from .players import Bot
 from .cards import Card
 
+# --- Strategy helpers ---
 def _pick_random(bot: Bot) -> int:
     return random.choice(bot.remaining_values())
 
@@ -14,6 +15,7 @@ def _pick_above_available(bot: Bot, diamond_value: int) -> int:
     return min(options)
 
 def _pick_matching(bot: Bot, diamond_value: int) -> int:
+    # If matching value available use it, else conservative.
     if bot.has_card(diamond_value):
         return diamond_value
     return _pick_above_available(bot, diamond_value)
@@ -67,15 +69,17 @@ def choose_card(
     d = bot.difficulty.lower()
     if d == "random":
         return _pick_random(bot)
-    if d == "matching":
-        return _pick_matching(bot, diamond_value)
+    if d == "conservative":
+        return _pick_above_available(bot, diamond_value)
     if d == "smart":
         return _pick_smart(bot, diamond_value, remaining_diamonds, known_user_remaining)
-    # fallback to random
-    return _pick_random(bot)
+    # default "matching"
+    return _pick_matching(bot, diamond_value)
 
+# Map “levels” to strategies
 LEVELS = {
     "easy": "random",
     "medium": "matching",
+    "hard": "greedy",
     "expert": "smart",
 }
