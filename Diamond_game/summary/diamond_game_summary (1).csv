@@ -1,0 +1,1900 @@
+1,medium,expert,1,3 ♦,"['3 ♠', '1 ♣']",1 ♣,bot1,3
+1,medium,expert,2,9 ♦,"['9 ♠', '2 ♣']",2 ♣,bot1,9
+1,medium,expert,3,7 ♦,"['7 ♠', '3 ♣']",3 ♣,bot1,7
+1,medium,expert,4,1 ♦,"['1 ♠', '4 ♣']",4 ♣,bot2,1
+1,medium,expert,5,4 ♦,"['4 ♠', '5 ♣']",5 ♣,bot2,4
+1,medium,expert,6,11 ♦,"['11 ♠', '11 ♣']",11 ♣,"['bot1', 'bot2']",11
+1,medium,expert,7,6 ♦,"['6 ♠', '6 ♣']",6 ♣,"['bot1', 'bot2']",6
+1,medium,expert,8,2 ♦,"['2 ♠', '7 ♣']",7 ♣,bot2,2
+1,medium,expert,9,12 ♦,"['12 ♠', '12 ♣']",12 ♣,"['bot1', 'bot2']",12
+1,medium,expert,10,10 ♦,"['10 ♠', '10 ♣']",10 ♣,"['bot1', 'bot2']",10
+1,medium,expert,11,8 ♦,"['8 ♠', '8 ♣']",8 ♣,"['bot1', 'bot2']",8
+1,medium,expert,12,13 ♦,"['13 ♠', '13 ♣']",13 ♣,"['bot1', 'bot2']",13
+1,medium,expert,13,5 ♦,"['5 ♠', '9 ♣']",9 ♣,bot2,5
+
+Game Number,1,Final Scores
+bot1,49.0
+bot2,42.0
+Winner,bot1
+
+2,medium,expert,1,9 ♦,"['9 ♠', '1 ♣']",1 ♣,bot1,9
+2,medium,expert,2,7 ♦,"['7 ♠', '2 ♣']",2 ♣,bot1,7
+2,medium,expert,3,10 ♦,"['10 ♠', '10 ♣']",10 ♣,"['bot1', 'bot2']",10
+2,medium,expert,4,1 ♦,"['1 ♠', '3 ♣']",3 ♣,bot2,1
+2,medium,expert,5,13 ♦,"['13 ♠', '13 ♣']",13 ♣,"['bot1', 'bot2']",13
+2,medium,expert,6,5 ♦,"['5 ♠', '4 ♣']",4 ♣,bot1,5
+2,medium,expert,7,11 ♦,"['11 ♠', '11 ♣']",11 ♣,"['bot1', 'bot2']",11
+2,medium,expert,8,2 ♦,"['2 ♠', '5 ♣']",5 ♣,bot2,2
+2,medium,expert,9,4 ♦,"['4 ♠', '6 ♣']",6 ♣,bot2,4
+2,medium,expert,10,8 ♦,"['8 ♠', '7 ♣']",7 ♣,bot1,8
+2,medium,expert,11,3 ♦,"['3 ♠', '8 ♣']",8 ♣,bot2,3
+2,medium,expert,12,6 ♦,"['6 ♠', '9 ♣']",9 ♣,bot2,6
+2,medium,expert,13,12 ♦,"['12 ♠', '12 ♣']",12 ♣,"['bot1', 'bot2']",12
+
+Game Number,2,Final Scores
+bot1,52.0
+bot2,39.0
+Winner,bot1
+
+3,medium,expert,1,6 ♦,"['6 ♠', '1 ♣']",1 ♣,bot1,6
+3,medium,expert,2,5 ♦,"['5 ♠', '2 ♣']",2 ♣,bot1,5
+3,medium,expert,3,8 ♦,"['8 ♠', '3 ♣']",3 ♣,bot1,8
+3,medium,expert,4,13 ♦,"['13 ♠', '13 ♣']",13 ♣,"['bot1', 'bot2']",13
+3,medium,expert,5,4 ♦,"['4 ♠', '4 ♣']",4 ♣,"['bot1', 'bot2']",4
+3,medium,expert,6,10 ♦,"['10 ♠', '10 ♣']",10 ♣,"['bot1', 'bot2']",10
+3,medium,expert,7,3 ♦,"['3 ♠', '5 ♣']",5 ♣,bot2,3
+3,medium,expert,8,2 ♦,"['2 ♠', '6 ♣']",6 ♣,bot2,2
+3,medium,expert,9,11 ♦,"['11 ♠', '11 ♣']",11 ♣,"['bot1', 'bot2']",11
+3,medium,expert,10,9 ♦,"['9 ♠', '7 ♣']",7 ♣,bot1,9
+3,medium,expert,11,7 ♦,"['7 ♠', '8 ♣']",8 ♣,bot2,7
+3,medium,expert,12,1 ♦,"['1 ♠', '9 ♣']",9 ♣,bot2,1
+3,medium,expert,13,12 ♦,"['12 ♠', '12 ♣']",12 ♣,"['bot1', 'bot2']",12
+
+Game Number,3,Final Scores
+bot1,53.0
+bot2,38.0
+Winner,bot1
+
+4,medium,expert,1,5 ♦,"['5 ♠', '1 ♣']",1 ♣,bot1,5
+4,medium,expert,2,3 ♦,"['3 ♠', '2 ♣']",2 ♣,bot1,3
+4,medium,expert,3,6 ♦,"['6 ♠', '3 ♣']",3 ♣,bot1,6
+4,medium,expert,4,4 ♦,"['4 ♠', '4 ♣']",4 ♣,"['bot1', 'bot2']",4
+4,medium,expert,5,12 ♦,"['12 ♠', '12 ♣']",12 ♣,"['bot1', 'bot2']",12
+4,medium,expert,6,13 ♦,"['13 ♠', '13 ♣']",13 ♣,"['bot1', 'bot2']",13
+4,medium,expert,7,10 ♦,"['10 ♠', '10 ♣']",10 ♣,"['bot1', 'bot2']",10
+4,medium,expert,8,2 ♦,"['2 ♠', '5 ♣']",5 ♣,bot2,2
+4,medium,expert,9,9 ♦,"['9 ♠', '6 ♣']",6 ♣,bot1,9
+4,medium,expert,10,7 ♦,"['7 ♠', '7 ♣']",7 ♣,"['bot1', 'bot2']",7
+4,medium,expert,11,1 ♦,"['1 ♠', '8 ♣']",8 ♣,bot2,1
+4,medium,expert,12,11 ♦,"['11 ♠', '11 ♣']",11 ♣,"['bot1', 'bot2']",11
+4,medium,expert,13,8 ♦,"['8 ♠', '9 ♣']",9 ♣,bot2,8
+
+Game Number,4,Final Scores
+bot1,51.5
+bot2,39.5
+Winner,bot1
+
+5,medium,expert,1,1 ♦,"['1 ♠', '1 ♣']",1 ♣,"['bot1', 'bot2']",1
+5,medium,expert,2,9 ♦,"['9 ♠', '2 ♣']",2 ♣,bot1,9
+5,medium,expert,3,12 ♦,"['12 ♠', '12 ♣']",12 ♣,"['bot1', 'bot2']",12
+5,medium,expert,4,8 ♦,"['8 ♠', '3 ♣']",3 ♣,bot1,8
+5,medium,expert,5,7 ♦,"['7 ♠', '4 ♣']",4 ♣,bot1,7
+5,medium,expert,6,13 ♦,"['13 ♠', '13 ♣']",13 ♣,"['bot1', 'bot2']",13
+5,medium,expert,7,6 ♦,"['6 ♠', '5 ♣']",5 ♣,bot1,6
+5,medium,expert,8,11 ♦,"['11 ♠', '11 ♣']",11 ♣,"['bot1', 'bot2']",11
+5,medium,expert,9,3 ♦,"['3 ♠', '6 ♣']",6 ♣,bot2,3
+5,medium,expert,10,4 ♦,"['4 ♠', '7 ♣']",7 ♣,bot2,4
+5,medium,expert,11,5 ♦,"['5 ♠', '8 ♣']",8 ♣,bot2,5
+5,medium,expert,12,10 ♦,"['10 ♠', '10 ♣']",10 ♣,"['bot1', 'bot2']",10
+5,medium,expert,13,2 ♦,"['2 ♠', '9 ♣']",9 ♣,bot2,2
+
+Game Number,5,Final Scores
+bot1,53.5
+bot2,37.5
+Winner,bot1
+
+6,medium,expert,1,5 ♦,"['5 ♠', '1 ♣']",1 ♣,bot1,5
+6,medium,expert,2,9 ♦,"['9 ♠', '2 ♣']",2 ♣,bot1,9
+6,medium,expert,3,4 ♦,"['4 ♠', '3 ♣']",3 ♣,bot1,4
+6,medium,expert,4,3 ♦,"['3 ♠', '4 ♣']",4 ♣,bot2,3
+6,medium,expert,5,8 ♦,"['8 ♠', '5 ♣']",5 ♣,bot1,8
+6,medium,expert,6,2 ♦,"['2 ♠', '6 ♣']",6 ♣,bot2,2
+6,medium,expert,7,13 ♦,"['13 ♠', '13 ♣']",13 ♣,"['bot1', 'bot2']",13
+6,medium,expert,8,11 ♦,"['11 ♠', '11 ♣']",11 ♣,"['bot1', 'bot2']",11
+6,medium,expert,9,12 ♦,"['12 ♠', '12 ♣']",12 ♣,"['bot1', 'bot2']",12
+6,medium,expert,10,1 ♦,"['1 ♠', '7 ♣']",7 ♣,bot2,1
+6,medium,expert,11,7 ♦,"['7 ♠', '8 ♣']",8 ♣,bot2,7
+6,medium,expert,12,6 ♦,"['6 ♠', '9 ♣']",9 ♣,bot2,6
+6,medium,expert,13,10 ♦,"['10 ♠', '10 ♣']",10 ♣,"['bot1', 'bot2']",10
+
+Game Number,6,Final Scores
+bot1,49.0
+bot2,42.0
+Winner,bot1
+
+7,medium,expert,1,5 ♦,"['5 ♠', '1 ♣']",1 ♣,bot1,5
+7,medium,expert,2,8 ♦,"['8 ♠', '2 ♣']",2 ♣,bot1,8
+7,medium,expert,3,1 ♦,"['1 ♠', '3 ♣']",3 ♣,bot2,1
+7,medium,expert,4,4 ♦,"['4 ♠', '4 ♣']",4 ♣,"['bot1', 'bot2']",4
+7,medium,expert,5,12 ♦,"['12 ♠', '12 ♣']",12 ♣,"['bot1', 'bot2']",12
+7,medium,expert,6,3 ♦,"['3 ♠', '5 ♣']",5 ♣,bot2,3
+7,medium,expert,7,6 ♦,"['6 ♠', '6 ♣']",6 ♣,"['bot1', 'bot2']",6
+7,medium,expert,8,2 ♦,"['2 ♠', '7 ♣']",7 ♣,bot2,2
+7,medium,expert,9,7 ♦,"['7 ♠', '8 ♣']",8 ♣,bot2,7
+7,medium,expert,10,10 ♦,"['10 ♠', '10 ♣']",10 ♣,"['bot1', 'bot2']",10
+7,medium,expert,11,11 ♦,"['11 ♠', '11 ♣']",11 ♣,"['bot1', 'bot2']",11
+7,medium,expert,12,13 ♦,"['13 ♠', '13 ♣']",13 ♣,"['bot1', 'bot2']",13
+7,medium,expert,13,9 ♦,"['9 ♠', '9 ♣']",9 ♣,"['bot1', 'bot2']",9
+
+Game Number,7,Final Scores
+bot1,45.5
+bot2,45.5
+Winner,"['bot1', 'bot2']"
+
+8,medium,expert,1,8 ♦,"['8 ♠', '1 ♣']",1 ♣,bot1,8
+8,medium,expert,2,10 ♦,"['10 ♠', '10 ♣']",10 ♣,"['bot1', 'bot2']",10
+8,medium,expert,3,12 ♦,"['12 ♠', '12 ♣']",12 ♣,"['bot1', 'bot2']",12
+8,medium,expert,4,4 ♦,"['4 ♠', '2 ♣']",2 ♣,bot1,4
+8,medium,expert,5,5 ♦,"['5 ♠', '3 ♣']",3 ♣,bot1,5
+8,medium,expert,6,7 ♦,"['7 ♠', '4 ♣']",4 ♣,bot1,7
+8,medium,expert,7,11 ♦,"['11 ♠', '11 ♣']",11 ♣,"['bot1', 'bot2']",11
+8,medium,expert,8,6 ♦,"['6 ♠', '5 ♣']",5 ♣,bot1,6
+8,medium,expert,9,13 ♦,"['13 ♠', '13 ♣']",13 ♣,"['bot1', 'bot2']",13
+8,medium,expert,10,9 ♦,"['9 ♠', '6 ♣']",6 ♣,bot1,9
+8,medium,expert,11,1 ♦,"['1 ♠', '7 ♣']",7 ♣,bot2,1
+8,medium,expert,12,2 ♦,"['2 ♠', '8 ♣']",8 ♣,bot2,2
+8,medium,expert,13,3 ♦,"['3 ♠', '9 ♣']",9 ♣,bot2,3
+
+Game Number,8,Final Scores
+bot1,62.0
+bot2,29.0
+Winner,bot1
+
+9,medium,expert,1,1 ♦,"['1 ♠', '1 ♣']",1 ♣,"['bot1', 'bot2']",1
+9,medium,expert,2,9 ♦,"['9 ♠', '2 ♣']",2 ♣,bot1,9
+9,medium,expert,3,12 ♦,"['12 ♠', '12 ♣']",12 ♣,"['bot1', 'bot2']",12
+9,medium,expert,4,11 ♦,"['11 ♠', '11 ♣']",11 ♣,"['bot1', 'bot2']",11
+9,medium,expert,5,7 ♦,"['7 ♠', '3 ♣']",3 ♣,bot1,7
+9,medium,expert,6,2 ♦,"['2 ♠', '4 ♣']",4 ♣,bot2,2
+9,medium,expert,7,8 ♦,"['8 ♠', '5 ♣']",5 ♣,bot1,8
+9,medium,expert,8,3 ♦,"['3 ♠', '6 ♣']",6 ♣,bot2,3
+9,medium,expert,9,4 ♦,"['4 ♠', '7 ♣']",7 ♣,bot2,4
+9,medium,expert,10,5 ♦,"['5 ♠', '8 ♣']",8 ♣,bot2,5
+9,medium,expert,11,13 ♦,"['13 ♠', '13 ♣']",13 ♣,"['bot1', 'bot2']",13
+9,medium,expert,12,10 ♦,"['10 ♠', '10 ♣']",10 ♣,"['bot1', 'bot2']",10
+9,medium,expert,13,6 ♦,"['6 ♠', '9 ♣']",9 ♣,bot2,6
+
+Game Number,9,Final Scores
+bot1,47.5
+bot2,43.5
+Winner,bot1
+
+10,medium,expert,1,2 ♦,"['2 ♠', '1 ♣']",1 ♣,bot1,2
+10,medium,expert,2,6 ♦,"['6 ♠', '2 ♣']",2 ♣,bot1,6
+10,medium,expert,3,11 ♦,"['11 ♠', '11 ♣']",11 ♣,"['bot1', 'bot2']",11
+10,medium,expert,4,8 ♦,"['8 ♠', '3 ♣']",3 ♣,bot1,8
+10,medium,expert,5,4 ♦,"['4 ♠', '4 ♣']",4 ♣,"['bot1', 'bot2']",4
+10,medium,expert,6,12 ♦,"['12 ♠', '12 ♣']",12 ♣,"['bot1', 'bot2']",12
+10,medium,expert,7,13 ♦,"['13 ♠', '13 ♣']",13 ♣,"['bot1', 'bot2']",13
+10,medium,expert,8,9 ♦,"['9 ♠', '5 ♣']",5 ♣,bot1,9
+10,medium,expert,9,7 ♦,"['7 ♠', '6 ♣']",6 ♣,bot1,7
+10,medium,expert,10,10 ♦,"['10 ♠', '10 ♣']",10 ♣,"['bot1', 'bot2']",10
+10,medium,expert,11,3 ♦,"['3 ♠', '7 ♣']",7 ♣,bot2,3
+10,medium,expert,12,5 ♦,"['5 ♠', '8 ♣']",8 ♣,bot2,5
+10,medium,expert,13,1 ♦,"['1 ♠', '9 ♣']",9 ♣,bot2,1
+
+Game Number,10,Final Scores
+bot1,57.0
+bot2,34.0
+Winner,bot1
+
+11,medium,expert,1,6 ♦,"['6 ♠', '1 ♣']",1 ♣,bot1,6
+11,medium,expert,2,7 ♦,"['7 ♠', '2 ♣']",2 ♣,bot1,7
+11,medium,expert,3,2 ♦,"['2 ♠', '3 ♣']",3 ♣,bot2,2
+11,medium,expert,4,10 ♦,"['10 ♠', '10 ♣']",10 ♣,"['bot1', 'bot2']",10
+11,medium,expert,5,4 ♦,"['4 ♠', '4 ♣']",4 ♣,"['bot1', 'bot2']",4
+11,medium,expert,6,13 ♦,"['13 ♠', '13 ♣']",13 ♣,"['bot1', 'bot2']",13
+11,medium,expert,7,3 ♦,"['3 ♠', '5 ♣']",5 ♣,bot2,3
+11,medium,expert,8,1 ♦,"['1 ♠', '6 ♣']",6 ♣,bot2,1
+11,medium,expert,9,11 ♦,"['11 ♠', '11 ♣']",11 ♣,"['bot1', 'bot2']",11
+11,medium,expert,10,8 ♦,"['8 ♠', '7 ♣']",7 ♣,bot1,8
+11,medium,expert,11,12 ♦,"['12 ♠', '12 ♣']",12 ♣,"['bot1', 'bot2']",12
+11,medium,expert,12,9 ♦,"['9 ♠', '8 ♣']",8 ♣,bot1,9
+11,medium,expert,13,5 ♦,"['5 ♠', '9 ♣']",9 ♣,bot2,5
+
+Game Number,11,Final Scores
+bot1,55.0
+bot2,36.0
+Winner,bot1
+
+12,medium,expert,1,9 ♦,"['9 ♠', '1 ♣']",1 ♣,bot1,9
+12,medium,expert,2,2 ♦,"['2 ♠', '2 ♣']",2 ♣,"['bot1', 'bot2']",2
+12,medium,expert,3,7 ♦,"['7 ♠', '3 ♣']",3 ♣,bot1,7
+12,medium,expert,4,12 ♦,"['12 ♠', '12 ♣']",12 ♣,"['bot1', 'bot2']",12
+12,medium,expert,5,13 ♦,"['13 ♠', '13 ♣']",13 ♣,"['bot1', 'bot2']",13
+12,medium,expert,6,10 ♦,"['10 ♠', '10 ♣']",10 ♣,"['bot1', 'bot2']",10
+12,medium,expert,7,4 ♦,"['4 ♠', '4 ♣']",4 ♣,"['bot1', 'bot2']",4
+12,medium,expert,8,11 ♦,"['11 ♠', '11 ♣']",11 ♣,"['bot1', 'bot2']",11
+12,medium,expert,9,8 ♦,"['8 ♠', '5 ♣']",5 ♣,bot1,8
+12,medium,expert,10,6 ♦,"['6 ♠', '6 ♣']",6 ♣,"['bot1', 'bot2']",6
+12,medium,expert,11,3 ♦,"['3 ♠', '7 ♣']",7 ♣,bot2,3
+12,medium,expert,12,5 ♦,"['5 ♠', '8 ♣']",8 ♣,bot2,5
+12,medium,expert,13,1 ♦,"['1 ♠', '9 ♣']",9 ♣,bot2,1
+
+Game Number,12,Final Scores
+bot1,53.0
+bot2,38.0
+Winner,bot1
+
+13,medium,expert,1,12 ♦,"['12 ♠', '12 ♣']",12 ♣,"['bot1', 'bot2']",12
+13,medium,expert,2,13 ♦,"['13 ♠', '13 ♣']",13 ♣,"['bot1', 'bot2']",13
+13,medium,expert,3,7 ♦,"['7 ♠', '1 ♣']",1 ♣,bot1,7
+13,medium,expert,4,2 ♦,"['2 ♠', '2 ♣']",2 ♣,"['bot1', 'bot2']",2
+13,medium,expert,5,10 ♦,"['10 ♠', '10 ♣']",10 ♣,"['bot1', 'bot2']",10
+13,medium,expert,6,11 ♦,"['11 ♠', '11 ♣']",11 ♣,"['bot1', 'bot2']",11
+13,medium,expert,7,8 ♦,"['8 ♠', '3 ♣']",3 ♣,bot1,8
+13,medium,expert,8,4 ♦,"['4 ♠', '4 ♣']",4 ♣,"['bot1', 'bot2']",4
+13,medium,expert,9,5 ♦,"['5 ♠', '5 ♣']",5 ♣,"['bot1', 'bot2']",5
+13,medium,expert,10,9 ♦,"['9 ♠', '6 ♣']",6 ♣,bot1,9
+13,medium,expert,11,3 ♦,"['3 ♠', '7 ♣']",7 ♣,bot2,3
+13,medium,expert,12,6 ♦,"['6 ♠', '8 ♣']",8 ♣,bot2,6
+13,medium,expert,13,1 ♦,"['1 ♠', '9 ♣']",9 ♣,bot2,1
+
+Game Number,13,Final Scores
+bot1,52.5
+bot2,38.5
+Winner,bot1
+
+14,medium,expert,1,12 ♦,"['12 ♠', '12 ♣']",12 ♣,"['bot1', 'bot2']",12
+14,medium,expert,2,6 ♦,"['6 ♠', '1 ♣']",1 ♣,bot1,6
+14,medium,expert,3,5 ♦,"['5 ♠', '2 ♣']",2 ♣,bot1,5
+14,medium,expert,4,11 ♦,"['11 ♠', '11 ♣']",11 ♣,"['bot1', 'bot2']",11
+14,medium,expert,5,3 ♦,"['3 ♠', '3 ♣']",3 ♣,"['bot1', 'bot2']",3
+14,medium,expert,6,10 ♦,"['10 ♠', '10 ♣']",10 ♣,"['bot1', 'bot2']",10
+14,medium,expert,7,7 ♦,"['7 ♠', '4 ♣']",4 ♣,bot1,7
+14,medium,expert,8,4 ♦,"['4 ♠', '5 ♣']",5 ♣,bot2,4
+14,medium,expert,9,2 ♦,"['2 ♠', '6 ♣']",6 ♣,bot2,2
+14,medium,expert,10,9 ♦,"['9 ♠', '7 ♣']",7 ♣,bot1,9
+14,medium,expert,11,8 ♦,"['8 ♠', '8 ♣']",8 ♣,"['bot1', 'bot2']",8
+14,medium,expert,12,13 ♦,"['13 ♠', '13 ♣']",13 ♣,"['bot1', 'bot2']",13
+14,medium,expert,13,1 ♦,"['1 ♠', '9 ♣']",9 ♣,bot2,1
+
+Game Number,14,Final Scores
+bot1,55.5
+bot2,35.5
+Winner,bot1
+
+15,medium,expert,1,2 ♦,"['2 ♠', '1 ♣']",1 ♣,bot1,2
+15,medium,expert,2,11 ♦,"['11 ♠', '11 ♣']",11 ♣,"['bot1', 'bot2']",11
+15,medium,expert,3,13 ♦,"['13 ♠', '13 ♣']",13 ♣,"['bot1', 'bot2']",13
+15,medium,expert,4,4 ♦,"['4 ♠', '2 ♣']",2 ♣,bot1,4
+15,medium,expert,5,12 ♦,"['12 ♠', '12 ♣']",12 ♣,"['bot1', 'bot2']",12
+15,medium,expert,6,7 ♦,"['7 ♠', '3 ♣']",3 ♣,bot1,7
+15,medium,expert,7,9 ♦,"['9 ♠', '4 ♣']",4 ♣,bot1,9
+15,medium,expert,8,10 ♦,"['10 ♠', '10 ♣']",10 ♣,"['bot1', 'bot2']",10
+15,medium,expert,9,5 ♦,"['5 ♠', '5 ♣']",5 ♣,"['bot1', 'bot2']",5
+15,medium,expert,10,1 ♦,"['1 ♠', '6 ♣']",6 ♣,bot2,1
+15,medium,expert,11,3 ♦,"['3 ♠', '7 ♣']",7 ♣,bot2,3
+15,medium,expert,12,8 ♦,"['8 ♠', '8 ♣']",8 ♣,"['bot1', 'bot2']",8
+15,medium,expert,13,6 ♦,"['6 ♠', '9 ♣']",9 ♣,bot2,6
+
+Game Number,15,Final Scores
+bot1,51.5
+bot2,39.5
+Winner,bot1
+
+16,medium,expert,1,8 ♦,"['8 ♠', '1 ♣']",1 ♣,bot1,8
+16,medium,expert,2,4 ♦,"['4 ♠', '2 ♣']",2 ♣,bot1,4
+16,medium,expert,3,12 ♦,"['12 ♠', '12 ♣']",12 ♣,"['bot1', 'bot2']",12
+16,medium,expert,4,7 ♦,"['7 ♠', '3 ♣']",3 ♣,bot1,7
+16,medium,expert,5,11 ♦,"['11 ♠', '11 ♣']",11 ♣,"['bot1', 'bot2']",11
+16,medium,expert,6,10 ♦,"['10 ♠', '10 ♣']",10 ♣,"['bot1', 'bot2']",10
+16,medium,expert,7,2 ♦,"['2 ♠', '4 ♣']",4 ♣,bot2,2
+16,medium,expert,8,1 ♦,"['1 ♠', '5 ♣']",5 ♣,bot2,1
+16,medium,expert,9,6 ♦,"['6 ♠', '6 ♣']",6 ♣,"['bot1', 'bot2']",6
+16,medium,expert,10,3 ♦,"['3 ♠', '7 ♣']",7 ♣,bot2,3
+16,medium,expert,11,9 ♦,"['9 ♠', '8 ♣']",8 ♣,bot1,9
+16,medium,expert,12,13 ♦,"['13 ♠', '13 ♣']",13 ♣,"['bot1', 'bot2']",13
+16,medium,expert,13,5 ♦,"['5 ♠', '9 ♣']",9 ♣,bot2,5
+
+Game Number,16,Final Scores
+bot1,54.0
+bot2,37.0
+Winner,bot1
+
+17,medium,expert,1,9 ♦,"['9 ♠', '1 ♣']",1 ♣,bot1,9
+17,medium,expert,2,2 ♦,"['2 ♠', '2 ♣']",2 ♣,"['bot1', 'bot2']",2
+17,medium,expert,3,13 ♦,"['13 ♠', '13 ♣']",13 ♣,"['bot1', 'bot2']",13
+17,medium,expert,4,5 ♦,"['5 ♠', '3 ♣']",3 ♣,bot1,5
+17,medium,expert,5,1 ♦,"['1 ♠', '4 ♣']",4 ♣,bot2,1
+17,medium,expert,6,7 ♦,"['7 ♠', '5 ♣']",5 ♣,bot1,7
+17,medium,expert,7,11 ♦,"['11 ♠', '11 ♣']",11 ♣,"['bot1', 'bot2']",11
+17,medium,expert,8,8 ♦,"['8 ♠', '6 ♣']",6 ♣,bot1,8
+17,medium,expert,9,6 ♦,"['6 ♠', '7 ♣']",7 ♣,bot2,6
+17,medium,expert,10,3 ♦,"['3 ♠', '8 ♣']",8 ♣,bot2,3
+17,medium,expert,11,12 ♦,"['12 ♠', '12 ♣']",12 ♣,"['bot1', 'bot2']",12
+17,medium,expert,12,10 ♦,"['10 ♠', '10 ♣']",10 ♣,"['bot1', 'bot2']",10
+17,medium,expert,13,4 ♦,"['4 ♠', '9 ♣']",9 ♣,bot2,4
+
+Game Number,17,Final Scores
+bot1,53.0
+bot2,38.0
+Winner,bot1
+
+18,medium,expert,1,8 ♦,"['8 ♠', '1 ♣']",1 ♣,bot1,8
+18,medium,expert,2,9 ♦,"['9 ♠', '2 ♣']",2 ♣,bot1,9
+18,medium,expert,3,4 ♦,"['4 ♠', '3 ♣']",3 ♣,bot1,4
+18,medium,expert,4,12 ♦,"['12 ♠', '12 ♣']",12 ♣,"['bot1', 'bot2']",12
+18,medium,expert,5,6 ♦,"['6 ♠', '4 ♣']",4 ♣,bot1,6
+18,medium,expert,6,5 ♦,"['5 ♠', '5 ♣']",5 ♣,"['bot1', 'bot2']",5
+18,medium,expert,7,3 ♦,"['3 ♠', '6 ♣']",6 ♣,bot2,3
+18,medium,expert,8,11 ♦,"['11 ♠', '11 ♣']",11 ♣,"['bot1', 'bot2']",11
+18,medium,expert,9,7 ♦,"['7 ♠', '7 ♣']",7 ♣,"['bot1', 'bot2']",7
+18,medium,expert,10,13 ♦,"['13 ♠', '13 ♣']",13 ♣,"['bot1', 'bot2']",13
+18,medium,expert,11,1 ♦,"['1 ♠', '8 ♣']",8 ♣,bot2,1
+18,medium,expert,12,10 ♦,"['10 ♠', '10 ♣']",10 ♣,"['bot1', 'bot2']",10
+18,medium,expert,13,2 ♦,"['2 ♠', '9 ♣']",9 ♣,bot2,2
+
+Game Number,18,Final Scores
+bot1,56.0
+bot2,35.0
+Winner,bot1
+
+19,medium,expert,1,7 ♦,"['7 ♠', '1 ♣']",1 ♣,bot1,7
+19,medium,expert,2,5 ♦,"['5 ♠', '2 ♣']",2 ♣,bot1,5
+19,medium,expert,3,4 ♦,"['4 ♠', '3 ♣']",3 ♣,bot1,4
+19,medium,expert,4,6 ♦,"['6 ♠', '4 ♣']",4 ♣,bot1,6
+19,medium,expert,5,11 ♦,"['11 ♠', '11 ♣']",11 ♣,"['bot1', 'bot2']",11
+19,medium,expert,6,12 ♦,"['12 ♠', '12 ♣']",12 ♣,"['bot1', 'bot2']",12
+19,medium,expert,7,10 ♦,"['10 ♠', '10 ♣']",10 ♣,"['bot1', 'bot2']",10
+19,medium,expert,8,3 ♦,"['3 ♠', '5 ♣']",5 ♣,bot2,3
+19,medium,expert,9,1 ♦,"['1 ♠', '6 ♣']",6 ♣,bot2,1
+19,medium,expert,10,13 ♦,"['13 ♠', '13 ♣']",13 ♣,"['bot1', 'bot2']",13
+19,medium,expert,11,8 ♦,"['8 ♠', '7 ♣']",7 ♣,bot1,8
+19,medium,expert,12,2 ♦,"['2 ♠', '8 ♣']",8 ♣,bot2,2
+19,medium,expert,13,9 ♦,"['9 ♠', '9 ♣']",9 ♣,"['bot1', 'bot2']",9
+
+Game Number,19,Final Scores
+bot1,57.5
+bot2,33.5
+Winner,bot1
+
+20,medium,expert,1,1 ♦,"['1 ♠', '1 ♣']",1 ♣,"['bot1', 'bot2']",1
+20,medium,expert,2,10 ♦,"['10 ♠', '10 ♣']",10 ♣,"['bot1', 'bot2']",10
+20,medium,expert,3,8 ♦,"['8 ♠', '2 ♣']",2 ♣,bot1,8
+20,medium,expert,4,4 ♦,"['4 ♠', '3 ♣']",3 ♣,bot1,4
+20,medium,expert,5,7 ♦,"['7 ♠', '4 ♣']",4 ♣,bot1,7
+20,medium,expert,6,9 ♦,"['9 ♠', '5 ♣']",5 ♣,bot1,9
+20,medium,expert,7,3 ♦,"['3 ♠', '6 ♣']",6 ♣,bot2,3
+20,medium,expert,8,13 ♦,"['13 ♠', '13 ♣']",13 ♣,"['bot1', 'bot2']",13
+20,medium,expert,9,11 ♦,"['11 ♠', '11 ♣']",11 ♣,"['bot1', 'bot2']",11
+20,medium,expert,10,12 ♦,"['12 ♠', '12 ♣']",12 ♣,"['bot1', 'bot2']",12
+20,medium,expert,11,6 ♦,"['6 ♠', '7 ♣']",7 ♣,bot2,6
+20,medium,expert,12,2 ♦,"['2 ♠', '8 ♣']",8 ♣,bot2,2
+20,medium,expert,13,5 ♦,"['5 ♠', '9 ♣']",9 ♣,bot2,5
+
+Game Number,20,Final Scores
+bot1,51.5
+bot2,39.5
+Winner,bot1
+
+21,medium,expert,1,2 ♦,"['2 ♠', '1 ♣']",1 ♣,bot1,2
+21,medium,expert,2,12 ♦,"['12 ♠', '12 ♣']",12 ♣,"['bot1', 'bot2']",12
+21,medium,expert,3,13 ♦,"['13 ♠', '13 ♣']",13 ♣,"['bot1', 'bot2']",13
+21,medium,expert,4,11 ♦,"['11 ♠', '11 ♣']",11 ♣,"['bot1', 'bot2']",11
+21,medium,expert,5,5 ♦,"['5 ♠', '2 ♣']",2 ♣,bot1,5
+21,medium,expert,6,4 ♦,"['4 ♠', '3 ♣']",3 ♣,bot1,4
+21,medium,expert,7,7 ♦,"['7 ♠', '4 ♣']",4 ♣,bot1,7
+21,medium,expert,8,8 ♦,"['8 ♠', '5 ♣']",5 ♣,bot1,8
+21,medium,expert,9,1 ♦,"['1 ♠', '6 ♣']",6 ♣,bot2,1
+21,medium,expert,10,9 ♦,"['9 ♠', '7 ♣']",7 ♣,bot1,9
+21,medium,expert,11,6 ♦,"['6 ♠', '8 ♣']",8 ♣,bot2,6
+21,medium,expert,12,3 ♦,"['3 ♠', '9 ♣']",9 ♣,bot2,3
+21,medium,expert,13,10 ♦,"['10 ♠', '10 ♣']",10 ♣,"['bot1', 'bot2']",10
+
+Game Number,21,Final Scores
+bot1,58.0
+bot2,33.0
+Winner,bot1
+
+22,medium,expert,1,12 ♦,"['12 ♠', '12 ♣']",12 ♣,"['bot1', 'bot2']",12
+22,medium,expert,2,8 ♦,"['8 ♠', '1 ♣']",1 ♣,bot1,8
+22,medium,expert,3,10 ♦,"['10 ♠', '10 ♣']",10 ♣,"['bot1', 'bot2']",10
+22,medium,expert,4,4 ♦,"['4 ♠', '2 ♣']",2 ♣,bot1,4
+22,medium,expert,5,5 ♦,"['5 ♠', '3 ♣']",3 ♣,bot1,5
+22,medium,expert,6,2 ♦,"['2 ♠', '4 ♣']",4 ♣,bot2,2
+22,medium,expert,7,1 ♦,"['1 ♠', '5 ♣']",5 ♣,bot2,1
+22,medium,expert,8,9 ♦,"['9 ♠', '6 ♣']",6 ♣,bot1,9
+22,medium,expert,9,3 ♦,"['3 ♠', '7 ♣']",7 ♣,bot2,3
+22,medium,expert,10,13 ♦,"['13 ♠', '13 ♣']",13 ♣,"['bot1', 'bot2']",13
+22,medium,expert,11,6 ♦,"['6 ♠', '8 ♣']",8 ♣,bot2,6
+22,medium,expert,12,7 ♦,"['7 ♠', '9 ♣']",9 ♣,bot2,7
+22,medium,expert,13,11 ♦,"['11 ♠', '11 ♣']",11 ♣,"['bot1', 'bot2']",11
+
+Game Number,22,Final Scores
+bot1,49.0
+bot2,42.0
+Winner,bot1
+
+23,medium,expert,1,8 ♦,"['8 ♠', '1 ♣']",1 ♣,bot1,8
+23,medium,expert,2,7 ♦,"['7 ♠', '2 ♣']",2 ♣,bot1,7
+23,medium,expert,3,1 ♦,"['1 ♠', '3 ♣']",3 ♣,bot2,1
+23,medium,expert,4,6 ♦,"['6 ♠', '4 ♣']",4 ♣,bot1,6
+23,medium,expert,5,2 ♦,"['2 ♠', '5 ♣']",5 ♣,bot2,2
+23,medium,expert,6,9 ♦,"['9 ♠', '6 ♣']",6 ♣,bot1,9
+23,medium,expert,7,4 ♦,"['4 ♠', '7 ♣']",7 ♣,bot2,4
+23,medium,expert,8,10 ♦,"['10 ♠', '10 ♣']",10 ♣,"['bot1', 'bot2']",10
+23,medium,expert,9,3 ♦,"['3 ♠', '8 ♣']",8 ♣,bot2,3
+23,medium,expert,10,12 ♦,"['12 ♠', '12 ♣']",12 ♣,"['bot1', 'bot2']",12
+23,medium,expert,11,13 ♦,"['13 ♠', '13 ♣']",13 ♣,"['bot1', 'bot2']",13
+23,medium,expert,12,5 ♦,"['5 ♠', '9 ♣']",9 ♣,bot2,5
+23,medium,expert,13,11 ♦,"['11 ♠', '11 ♣']",11 ♣,"['bot1', 'bot2']",11
+
+Game Number,23,Final Scores
+bot1,53.0
+bot2,38.0
+Winner,bot1
+
+24,medium,expert,1,4 ♦,"['4 ♠', '1 ♣']",1 ♣,bot1,4
+24,medium,expert,2,1 ♦,"['1 ♠', '2 ♣']",2 ♣,bot2,1
+24,medium,expert,3,12 ♦,"['12 ♠', '12 ♣']",12 ♣,"['bot1', 'bot2']",12
+24,medium,expert,4,11 ♦,"['11 ♠', '11 ♣']",11 ♣,"['bot1', 'bot2']",11
+24,medium,expert,5,7 ♦,"['7 ♠', '3 ♣']",3 ♣,bot1,7
+24,medium,expert,6,6 ♦,"['6 ♠', '4 ♣']",4 ♣,bot1,6
+24,medium,expert,7,9 ♦,"['9 ♠', '5 ♣']",5 ♣,bot1,9
+24,medium,expert,8,10 ♦,"['10 ♠', '10 ♣']",10 ♣,"['bot1', 'bot2']",10
+24,medium,expert,9,13 ♦,"['13 ♠', '13 ♣']",13 ♣,"['bot1', 'bot2']",13
+24,medium,expert,10,3 ♦,"['3 ♠', '6 ♣']",6 ♣,bot2,3
+24,medium,expert,11,5 ♦,"['5 ♠', '7 ♣']",7 ♣,bot2,5
+24,medium,expert,12,8 ♦,"['8 ♠', '8 ♣']",8 ♣,"['bot1', 'bot2']",8
+24,medium,expert,13,2 ♦,"['2 ♠', '9 ♣']",9 ♣,bot2,2
+
+Game Number,24,Final Scores
+bot1,53.0
+bot2,38.0
+Winner,bot1
+
+25,medium,expert,1,9 ♦,"['9 ♠', '1 ♣']",1 ♣,bot1,9
+25,medium,expert,2,3 ♦,"['3 ♠', '2 ♣']",2 ♣,bot1,3
+25,medium,expert,3,11 ♦,"['11 ♠', '11 ♣']",11 ♣,"['bot1', 'bot2']",11
+25,medium,expert,4,2 ♦,"['2 ♠', '3 ♣']",3 ♣,bot2,2
+25,medium,expert,5,13 ♦,"['13 ♠', '13 ♣']",13 ♣,"['bot1', 'bot2']",13
+25,medium,expert,6,10 ♦,"['10 ♠', '10 ♣']",10 ♣,"['bot1', 'bot2']",10
+25,medium,expert,7,12 ♦,"['12 ♠', '12 ♣']",12 ♣,"['bot1', 'bot2']",12
+25,medium,expert,8,5 ♦,"['5 ♠', '4 ♣']",4 ♣,bot1,5
+25,medium,expert,9,4 ♦,"['4 ♠', '5 ♣']",5 ♣,bot2,4
+25,medium,expert,10,7 ♦,"['7 ♠', '6 ♣']",6 ♣,bot1,7
+25,medium,expert,11,1 ♦,"['1 ♠', '7 ♣']",7 ♣,bot2,1
+25,medium,expert,12,8 ♦,"['8 ♠', '8 ♣']",8 ♣,"['bot1', 'bot2']",8
+25,medium,expert,13,6 ♦,"['6 ♠', '9 ♣']",9 ♣,bot2,6
+
+Game Number,25,Final Scores
+bot1,51.0
+bot2,40.0
+Winner,bot1
+
+26,medium,expert,1,12 ♦,"['12 ♠', '12 ♣']",12 ♣,"['bot1', 'bot2']",12
+26,medium,expert,2,7 ♦,"['7 ♠', '1 ♣']",1 ♣,bot1,7
+26,medium,expert,3,13 ♦,"['13 ♠', '13 ♣']",13 ♣,"['bot1', 'bot2']",13
+26,medium,expert,4,9 ♦,"['9 ♠', '2 ♣']",2 ♣,bot1,9
+26,medium,expert,5,5 ♦,"['5 ♠', '3 ♣']",3 ♣,bot1,5
+26,medium,expert,6,3 ♦,"['3 ♠', '4 ♣']",4 ♣,bot2,3
+26,medium,expert,7,11 ♦,"['11 ♠', '11 ♣']",11 ♣,"['bot1', 'bot2']",11
+26,medium,expert,8,2 ♦,"['2 ♠', '5 ♣']",5 ♣,bot2,2
+26,medium,expert,9,8 ♦,"['8 ♠', '6 ♣']",6 ♣,bot1,8
+26,medium,expert,10,6 ♦,"['6 ♠', '7 ♣']",7 ♣,bot2,6
+26,medium,expert,11,4 ♦,"['4 ♠', '8 ♣']",8 ♣,bot2,4
+26,medium,expert,12,10 ♦,"['10 ♠', '10 ♣']",10 ♣,"['bot1', 'bot2']",10
+26,medium,expert,13,1 ♦,"['1 ♠', '9 ♣']",9 ♣,bot2,1
+
+Game Number,26,Final Scores
+bot1,52.0
+bot2,39.0
+Winner,bot1
+
+27,medium,expert,1,13 ♦,"['13 ♠', '13 ♣']",13 ♣,"['bot1', 'bot2']",13
+27,medium,expert,2,9 ♦,"['9 ♠', '1 ♣']",1 ♣,bot1,9
+27,medium,expert,3,7 ♦,"['7 ♠', '2 ♣']",2 ♣,bot1,7
+27,medium,expert,4,12 ♦,"['12 ♠', '12 ♣']",12 ♣,"['bot1', 'bot2']",12
+27,medium,expert,5,6 ♦,"['6 ♠', '3 ♣']",3 ♣,bot1,6
+27,medium,expert,6,11 ♦,"['11 ♠', '11 ♣']",11 ♣,"['bot1', 'bot2']",11
+27,medium,expert,7,2 ♦,"['2 ♠', '4 ♣']",4 ♣,bot2,2
+27,medium,expert,8,8 ♦,"['8 ♠', '5 ♣']",5 ♣,bot1,8
+27,medium,expert,9,4 ♦,"['4 ♠', '6 ♣']",6 ♣,bot2,4
+27,medium,expert,10,5 ♦,"['5 ♠', '7 ♣']",7 ♣,bot2,5
+27,medium,expert,11,3 ♦,"['3 ♠', '8 ♣']",8 ♣,bot2,3
+27,medium,expert,12,1 ♦,"['1 ♠', '9 ♣']",9 ♣,bot2,1
+27,medium,expert,13,10 ♦,"['10 ♠', '10 ♣']",10 ♣,"['bot1', 'bot2']",10
+
+Game Number,27,Final Scores
+bot1,53.0
+bot2,38.0
+Winner,bot1
+
+28,medium,expert,1,8 ♦,"['8 ♠', '1 ♣']",1 ♣,bot1,8
+28,medium,expert,2,12 ♦,"['12 ♠', '12 ♣']",12 ♣,"['bot1', 'bot2']",12
+28,medium,expert,3,5 ♦,"['5 ♠', '2 ♣']",2 ♣,bot1,5
+28,medium,expert,4,9 ♦,"['9 ♠', '3 ♣']",3 ♣,bot1,9
+28,medium,expert,5,2 ♦,"['2 ♠', '4 ♣']",4 ♣,bot2,2
+28,medium,expert,6,4 ♦,"['4 ♠', '5 ♣']",5 ♣,bot2,4
+28,medium,expert,7,11 ♦,"['11 ♠', '11 ♣']",11 ♣,"['bot1', 'bot2']",11
+28,medium,expert,8,6 ♦,"['6 ♠', '6 ♣']",6 ♣,"['bot1', 'bot2']",6
+28,medium,expert,9,10 ♦,"['10 ♠', '10 ♣']",10 ♣,"['bot1', 'bot2']",10
+28,medium,expert,10,3 ♦,"['3 ♠', '7 ♣']",7 ♣,bot2,3
+28,medium,expert,11,13 ♦,"['13 ♠', '13 ♣']",13 ♣,"['bot1', 'bot2']",13
+28,medium,expert,12,1 ♦,"['1 ♠', '8 ♣']",8 ♣,bot2,1
+28,medium,expert,13,7 ♦,"['7 ♠', '9 ♣']",9 ♣,bot2,7
+
+Game Number,28,Final Scores
+bot1,48.0
+bot2,43.0
+Winner,bot1
+
+29,medium,expert,1,10 ♦,"['10 ♠', '10 ♣']",10 ♣,"['bot1', 'bot2']",10
+29,medium,expert,2,13 ♦,"['13 ♠', '13 ♣']",13 ♣,"['bot1', 'bot2']",13
+29,medium,expert,3,12 ♦,"['12 ♠', '12 ♣']",12 ♣,"['bot1', 'bot2']",12
+29,medium,expert,4,3 ♦,"['3 ♠', '1 ♣']",1 ♣,bot1,3
+29,medium,expert,5,1 ♦,"['1 ♠', '2 ♣']",2 ♣,bot2,1
+29,medium,expert,6,6 ♦,"['6 ♠', '3 ♣']",3 ♣,bot1,6
+29,medium,expert,7,11 ♦,"['11 ♠', '11 ♣']",11 ♣,"['bot1', 'bot2']",11
+29,medium,expert,8,5 ♦,"['5 ♠', '4 ♣']",4 ♣,bot1,5
+29,medium,expert,9,4 ♦,"['4 ♠', '5 ♣']",5 ♣,bot2,4
+29,medium,expert,10,8 ♦,"['8 ♠', '6 ♣']",6 ♣,bot1,8
+29,medium,expert,11,2 ♦,"['2 ♠', '7 ♣']",7 ♣,bot2,2
+29,medium,expert,12,9 ♦,"['9 ♠', '8 ♣']",8 ♣,bot1,9
+29,medium,expert,13,7 ♦,"['7 ♠', '9 ♣']",9 ♣,bot2,7
+
+Game Number,29,Final Scores
+bot1,54.0
+bot2,37.0
+Winner,bot1
+
+30,medium,expert,1,13 ♦,"['13 ♠', '13 ♣']",13 ♣,"['bot1', 'bot2']",13
+30,medium,expert,2,10 ♦,"['10 ♠', '10 ♣']",10 ♣,"['bot1', 'bot2']",10
+30,medium,expert,3,7 ♦,"['7 ♠', '1 ♣']",1 ♣,bot1,7
+30,medium,expert,4,3 ♦,"['3 ♠', '2 ♣']",2 ♣,bot1,3
+30,medium,expert,5,2 ♦,"['2 ♠', '3 ♣']",3 ♣,bot2,2
+30,medium,expert,6,1 ♦,"['1 ♠', '4 ♣']",4 ♣,bot2,1
+30,medium,expert,7,6 ♦,"['6 ♠', '5 ♣']",5 ♣,bot1,6
+30,medium,expert,8,5 ♦,"['5 ♠', '6 ♣']",6 ♣,bot2,5
+30,medium,expert,9,12 ♦,"['12 ♠', '12 ♣']",12 ♣,"['bot1', 'bot2']",12
+30,medium,expert,10,4 ♦,"['4 ♠', '7 ♣']",7 ♣,bot2,4
+30,medium,expert,11,9 ♦,"['9 ♠', '8 ♣']",8 ♣,bot1,9
+30,medium,expert,12,11 ♦,"['11 ♠', '11 ♣']",11 ♣,"['bot1', 'bot2']",11
+30,medium,expert,13,8 ♦,"['8 ♠', '9 ♣']",9 ♣,bot2,8
+
+Game Number,30,Final Scores
+bot1,48.0
+bot2,43.0
+Winner,bot1
+
+31,medium,expert,1,10 ♦,"['10 ♠', '10 ♣']",10 ♣,"['bot1', 'bot2']",10
+31,medium,expert,2,8 ♦,"['8 ♠', '1 ♣']",1 ♣,bot1,8
+31,medium,expert,3,12 ♦,"['12 ♠', '12 ♣']",12 ♣,"['bot1', 'bot2']",12
+31,medium,expert,4,3 ♦,"['3 ♠', '2 ♣']",2 ♣,bot1,3
+31,medium,expert,5,11 ♦,"['11 ♠', '11 ♣']",11 ♣,"['bot1', 'bot2']",11
+31,medium,expert,6,9 ♦,"['9 ♠', '3 ♣']",3 ♣,bot1,9
+31,medium,expert,7,13 ♦,"['13 ♠', '13 ♣']",13 ♣,"['bot1', 'bot2']",13
+31,medium,expert,8,6 ♦,"['6 ♠', '4 ♣']",4 ♣,bot1,6
+31,medium,expert,9,1 ♦,"['1 ♠', '5 ♣']",5 ♣,bot2,1
+31,medium,expert,10,4 ♦,"['4 ♠', '6 ♣']",6 ♣,bot2,4
+31,medium,expert,11,7 ♦,"['7 ♠', '7 ♣']",7 ♣,"['bot1', 'bot2']",7
+31,medium,expert,12,2 ♦,"['2 ♠', '8 ♣']",8 ♣,bot2,2
+31,medium,expert,13,5 ♦,"['5 ♠', '9 ♣']",9 ♣,bot2,5
+
+Game Number,31,Final Scores
+bot1,52.5
+bot2,38.5
+Winner,bot1
+
+32,medium,expert,1,8 ♦,"['8 ♠', '1 ♣']",1 ♣,bot1,8
+32,medium,expert,2,10 ♦,"['10 ♠', '10 ♣']",10 ♣,"['bot1', 'bot2']",10
+32,medium,expert,3,9 ♦,"['9 ♠', '2 ♣']",2 ♣,bot1,9
+32,medium,expert,4,12 ♦,"['12 ♠', '12 ♣']",12 ♣,"['bot1', 'bot2']",12
+32,medium,expert,5,4 ♦,"['4 ♠', '3 ♣']",3 ♣,bot1,4
+32,medium,expert,6,13 ♦,"['13 ♠', '13 ♣']",13 ♣,"['bot1', 'bot2']",13
+32,medium,expert,7,7 ♦,"['7 ♠', '4 ♣']",4 ♣,bot1,7
+32,medium,expert,8,3 ♦,"['3 ♠', '5 ♣']",5 ♣,bot2,3
+32,medium,expert,9,6 ♦,"['6 ♠', '6 ♣']",6 ♣,"['bot1', 'bot2']",6
+32,medium,expert,10,11 ♦,"['11 ♠', '11 ♣']",11 ♣,"['bot1', 'bot2']",11
+32,medium,expert,11,5 ♦,"['5 ♠', '7 ♣']",7 ♣,bot2,5
+32,medium,expert,12,2 ♦,"['2 ♠', '8 ♣']",8 ♣,bot2,2
+32,medium,expert,13,1 ♦,"['1 ♠', '9 ♣']",9 ♣,bot2,1
+
+Game Number,32,Final Scores
+bot1,54.0
+bot2,37.0
+Winner,bot1
+
+33,medium,expert,1,4 ♦,"['4 ♠', '1 ♣']",1 ♣,bot1,4
+33,medium,expert,2,12 ♦,"['12 ♠', '12 ♣']",12 ♣,"['bot1', 'bot2']",12
+33,medium,expert,3,10 ♦,"['10 ♠', '10 ♣']",10 ♣,"['bot1', 'bot2']",10
+33,medium,expert,4,6 ♦,"['6 ♠', '2 ♣']",2 ♣,bot1,6
+33,medium,expert,5,2 ♦,"['2 ♠', '3 ♣']",3 ♣,bot2,2
+33,medium,expert,6,7 ♦,"['7 ♠', '4 ♣']",4 ♣,bot1,7
+33,medium,expert,7,5 ♦,"['5 ♠', '5 ♣']",5 ♣,"['bot1', 'bot2']",5
+33,medium,expert,8,11 ♦,"['11 ♠', '11 ♣']",11 ♣,"['bot1', 'bot2']",11
+33,medium,expert,9,8 ♦,"['8 ♠', '6 ♣']",6 ♣,bot1,8
+33,medium,expert,10,1 ♦,"['1 ♠', '7 ♣']",7 ♣,bot2,1
+33,medium,expert,11,3 ♦,"['3 ♠', '8 ♣']",8 ♣,bot2,3
+33,medium,expert,12,9 ♦,"['9 ♠', '9 ♣']",9 ♣,"['bot1', 'bot2']",9
+33,medium,expert,13,13 ♦,"['13 ♠', '13 ♣']",13 ♣,"['bot1', 'bot2']",13
+
+Game Number,33,Final Scores
+bot1,55.0
+bot2,36.0
+Winner,bot1
+
+34,medium,expert,1,8 ♦,"['8 ♠', '1 ♣']",1 ♣,bot1,8
+34,medium,expert,2,7 ♦,"['7 ♠', '2 ♣']",2 ♣,bot1,7
+34,medium,expert,3,13 ♦,"['13 ♠', '13 ♣']",13 ♣,"['bot1', 'bot2']",13
+34,medium,expert,4,9 ♦,"['9 ♠', '3 ♣']",3 ♣,bot1,9
+34,medium,expert,5,11 ♦,"['11 ♠', '11 ♣']",11 ♣,"['bot1', 'bot2']",11
+34,medium,expert,6,3 ♦,"['3 ♠', '4 ♣']",4 ♣,bot2,3
+34,medium,expert,7,12 ♦,"['12 ♠', '12 ♣']",12 ♣,"['bot1', 'bot2']",12
+34,medium,expert,8,4 ♦,"['4 ♠', '5 ♣']",5 ♣,bot2,4
+34,medium,expert,9,10 ♦,"['10 ♠', '10 ♣']",10 ♣,"['bot1', 'bot2']",10
+34,medium,expert,10,6 ♦,"['6 ♠', '6 ♣']",6 ♣,"['bot1', 'bot2']",6
+34,medium,expert,11,2 ♦,"['2 ♠', '7 ♣']",7 ♣,bot2,2
+34,medium,expert,12,5 ♦,"['5 ♠', '8 ♣']",8 ♣,bot2,5
+34,medium,expert,13,1 ♦,"['1 ♠', '9 ♣']",9 ♣,bot2,1
+
+Game Number,34,Final Scores
+bot1,50.0
+bot2,41.0
+Winner,bot1
+
+35,medium,expert,1,4 ♦,"['4 ♠', '1 ♣']",1 ♣,bot1,4
+35,medium,expert,2,11 ♦,"['11 ♠', '11 ♣']",11 ♣,"['bot1', 'bot2']",11
+35,medium,expert,3,10 ♦,"['10 ♠', '10 ♣']",10 ♣,"['bot1', 'bot2']",10
+35,medium,expert,4,5 ♦,"['5 ♠', '2 ♣']",2 ♣,bot1,5
+35,medium,expert,5,1 ♦,"['1 ♠', '3 ♣']",3 ♣,bot2,1
+35,medium,expert,6,6 ♦,"['6 ♠', '4 ♣']",4 ♣,bot1,6
+35,medium,expert,7,7 ♦,"['7 ♠', '5 ♣']",5 ♣,bot1,7
+35,medium,expert,8,2 ♦,"['2 ♠', '6 ♣']",6 ♣,bot2,2
+35,medium,expert,9,8 ♦,"['8 ♠', '7 ♣']",7 ♣,bot1,8
+35,medium,expert,10,13 ♦,"['13 ♠', '13 ♣']",13 ♣,"['bot1', 'bot2']",13
+35,medium,expert,11,3 ♦,"['3 ♠', '8 ♣']",8 ♣,bot2,3
+35,medium,expert,12,12 ♦,"['12 ♠', '12 ♣']",12 ♣,"['bot1', 'bot2']",12
+35,medium,expert,13,9 ♦,"['9 ♠', '9 ♣']",9 ♣,"['bot1', 'bot2']",9
+
+Game Number,35,Final Scores
+bot1,57.5
+bot2,33.5
+Winner,bot1
+
+36,medium,expert,1,8 ♦,"['8 ♠', '1 ♣']",1 ♣,bot1,8
+36,medium,expert,2,10 ♦,"['10 ♠', '10 ♣']",10 ♣,"['bot1', 'bot2']",10
+36,medium,expert,3,3 ♦,"['3 ♠', '2 ♣']",2 ♣,bot1,3
+36,medium,expert,4,11 ♦,"['11 ♠', '11 ♣']",11 ♣,"['bot1', 'bot2']",11
+36,medium,expert,5,5 ♦,"['5 ♠', '3 ♣']",3 ♣,bot1,5
+36,medium,expert,6,13 ♦,"['13 ♠', '13 ♣']",13 ♣,"['bot1', 'bot2']",13
+36,medium,expert,7,2 ♦,"['2 ♠', '4 ♣']",4 ♣,bot2,2
+36,medium,expert,8,12 ♦,"['12 ♠', '12 ♣']",12 ♣,"['bot1', 'bot2']",12
+36,medium,expert,9,1 ♦,"['1 ♠', '5 ♣']",5 ♣,bot2,1
+36,medium,expert,10,9 ♦,"['9 ♠', '6 ♣']",6 ♣,bot1,9
+36,medium,expert,11,4 ♦,"['4 ♠', '7 ♣']",7 ♣,bot2,4
+36,medium,expert,12,6 ♦,"['6 ♠', '8 ♣']",8 ♣,bot2,6
+36,medium,expert,13,7 ♦,"['7 ♠', '9 ♣']",9 ♣,bot2,7
+
+Game Number,36,Final Scores
+bot1,48.0
+bot2,43.0
+Winner,bot1
+
+37,medium,expert,1,2 ♦,"['2 ♠', '1 ♣']",1 ♣,bot1,2
+37,medium,expert,2,13 ♦,"['13 ♠', '13 ♣']",13 ♣,"['bot1', 'bot2']",13
+37,medium,expert,3,10 ♦,"['10 ♠', '10 ♣']",10 ♣,"['bot1', 'bot2']",10
+37,medium,expert,4,12 ♦,"['12 ♠', '12 ♣']",12 ♣,"['bot1', 'bot2']",12
+37,medium,expert,5,6 ♦,"['6 ♠', '2 ♣']",2 ♣,bot1,6
+37,medium,expert,6,3 ♦,"['3 ♠', '3 ♣']",3 ♣,"['bot1', 'bot2']",3
+37,medium,expert,7,5 ♦,"['5 ♠', '4 ♣']",4 ♣,bot1,5
+37,medium,expert,8,4 ♦,"['4 ♠', '5 ♣']",5 ♣,bot2,4
+37,medium,expert,9,7 ♦,"['7 ♠', '6 ♣']",6 ♣,bot1,7
+37,medium,expert,10,9 ♦,"['9 ♠', '7 ♣']",7 ♣,bot1,9
+37,medium,expert,11,1 ♦,"['1 ♠', '8 ♣']",8 ♣,bot2,1
+37,medium,expert,12,11 ♦,"['11 ♠', '11 ♣']",11 ♣,"['bot1', 'bot2']",11
+37,medium,expert,13,8 ♦,"['8 ♠', '9 ♣']",9 ♣,bot2,8
+
+Game Number,37,Final Scores
+bot1,53.5
+bot2,37.5
+Winner,bot1
+
+38,medium,expert,1,7 ♦,"['7 ♠', '1 ♣']",1 ♣,bot1,7
+38,medium,expert,2,13 ♦,"['13 ♠', '13 ♣']",13 ♣,"['bot1', 'bot2']",13
+38,medium,expert,3,4 ♦,"['4 ♠', '2 ♣']",2 ♣,bot1,4
+38,medium,expert,4,8 ♦,"['8 ♠', '3 ♣']",3 ♣,bot1,8
+38,medium,expert,5,11 ♦,"['11 ♠', '11 ♣']",11 ♣,"['bot1', 'bot2']",11
+38,medium,expert,6,3 ♦,"['3 ♠', '4 ♣']",4 ♣,bot2,3
+38,medium,expert,7,1 ♦,"['1 ♠', '5 ♣']",5 ♣,bot2,1
+38,medium,expert,8,6 ♦,"['6 ♠', '6 ♣']",6 ♣,"['bot1', 'bot2']",6
+38,medium,expert,9,12 ♦,"['12 ♠', '12 ♣']",12 ♣,"['bot1', 'bot2']",12
+38,medium,expert,10,9 ♦,"['9 ♠', '7 ♣']",7 ♣,bot1,9
+38,medium,expert,11,5 ♦,"['5 ♠', '8 ♣']",8 ♣,bot2,5
+38,medium,expert,12,10 ♦,"['10 ♠', '10 ♣']",10 ♣,"['bot1', 'bot2']",10
+38,medium,expert,13,2 ♦,"['2 ♠', '9 ♣']",9 ♣,bot2,2
+
+Game Number,38,Final Scores
+bot1,54.0
+bot2,37.0
+Winner,bot1
+
+39,medium,expert,1,11 ♦,"['11 ♠', '11 ♣']",11 ♣,"['bot1', 'bot2']",11
+39,medium,expert,2,12 ♦,"['12 ♠', '12 ♣']",12 ♣,"['bot1', 'bot2']",12
+39,medium,expert,3,3 ♦,"['3 ♠', '1 ♣']",1 ♣,bot1,3
+39,medium,expert,4,8 ♦,"['8 ♠', '2 ♣']",2 ♣,bot1,8
+39,medium,expert,5,13 ♦,"['13 ♠', '13 ♣']",13 ♣,"['bot1', 'bot2']",13
+39,medium,expert,6,1 ♦,"['1 ♠', '3 ♣']",3 ♣,bot2,1
+39,medium,expert,7,4 ♦,"['4 ♠', '4 ♣']",4 ♣,"['bot1', 'bot2']",4
+39,medium,expert,8,9 ♦,"['9 ♠', '5 ♣']",5 ♣,bot1,9
+39,medium,expert,9,7 ♦,"['7 ♠', '6 ♣']",6 ♣,bot1,7
+39,medium,expert,10,10 ♦,"['10 ♠', '10 ♣']",10 ♣,"['bot1', 'bot2']",10
+39,medium,expert,11,2 ♦,"['2 ♠', '7 ♣']",7 ♣,bot2,2
+39,medium,expert,12,6 ♦,"['6 ♠', '8 ♣']",8 ♣,bot2,6
+39,medium,expert,13,5 ♦,"['5 ♠', '9 ♣']",9 ♣,bot2,5
+
+Game Number,39,Final Scores
+bot1,52.0
+bot2,39.0
+Winner,bot1
+
+40,medium,expert,1,4 ♦,"['4 ♠', '1 ♣']",1 ♣,bot1,4
+40,medium,expert,2,2 ♦,"['2 ♠', '2 ♣']",2 ♣,"['bot1', 'bot2']",2
+40,medium,expert,3,6 ♦,"['6 ♠', '3 ♣']",3 ♣,bot1,6
+40,medium,expert,4,1 ♦,"['1 ♠', '4 ♣']",4 ♣,bot2,1
+40,medium,expert,5,3 ♦,"['3 ♠', '5 ♣']",5 ♣,bot2,3
+40,medium,expert,6,8 ♦,"['8 ♠', '6 ♣']",6 ♣,bot1,8
+40,medium,expert,7,5 ♦,"['5 ♠', '7 ♣']",7 ♣,bot2,5
+40,medium,expert,8,7 ♦,"['7 ♠', '8 ♣']",8 ♣,bot2,7
+40,medium,expert,9,9 ♦,"['9 ♠', '9 ♣']",9 ♣,"['bot1', 'bot2']",9
+40,medium,expert,10,13 ♦,"['13 ♠', '13 ♣']",13 ♣,"['bot1', 'bot2']",13
+40,medium,expert,11,10 ♦,"['10 ♠', '10 ♣']",10 ♣,"['bot1', 'bot2']",10
+40,medium,expert,12,12 ♦,"['12 ♠', '12 ♣']",12 ♣,"['bot1', 'bot2']",12
+40,medium,expert,13,11 ♦,"['11 ♠', '11 ♣']",11 ♣,"['bot1', 'bot2']",11
+
+Game Number,40,Final Scores
+bot1,46.5
+bot2,44.5
+Winner,bot1
+
+41,medium,expert,1,4 ♦,"['4 ♠', '1 ♣']",1 ♣,bot1,4
+41,medium,expert,2,9 ♦,"['9 ♠', '2 ♣']",2 ♣,bot1,9
+41,medium,expert,3,11 ♦,"['11 ♠', '11 ♣']",11 ♣,"['bot1', 'bot2']",11
+41,medium,expert,4,10 ♦,"['10 ♠', '10 ♣']",10 ♣,"['bot1', 'bot2']",10
+41,medium,expert,5,1 ♦,"['1 ♠', '3 ♣']",3 ♣,bot2,1
+41,medium,expert,6,13 ♦,"['13 ♠', '13 ♣']",13 ♣,"['bot1', 'bot2']",13
+41,medium,expert,7,3 ♦,"['3 ♠', '4 ♣']",4 ♣,bot2,3
+41,medium,expert,8,6 ♦,"['6 ♠', '5 ♣']",5 ♣,bot1,6
+41,medium,expert,9,7 ♦,"['7 ♠', '6 ♣']",6 ♣,bot1,7
+41,medium,expert,10,2 ♦,"['2 ♠', '7 ♣']",7 ♣,bot2,2
+41,medium,expert,11,8 ♦,"['8 ♠', '8 ♣']",8 ♣,"['bot1', 'bot2']",8
+41,medium,expert,12,12 ♦,"['12 ♠', '12 ♣']",12 ♣,"['bot1', 'bot2']",12
+41,medium,expert,13,5 ♦,"['5 ♠', '9 ♣']",9 ♣,bot2,5
+
+Game Number,41,Final Scores
+bot1,53.0
+bot2,38.0
+Winner,bot1
+
+42,medium,expert,1,7 ♦,"['7 ♠', '1 ♣']",1 ♣,bot1,7
+42,medium,expert,2,11 ♦,"['11 ♠', '11 ♣']",11 ♣,"['bot1', 'bot2']",11
+42,medium,expert,3,4 ♦,"['4 ♠', '2 ♣']",2 ♣,bot1,4
+42,medium,expert,4,8 ♦,"['8 ♠', '3 ♣']",3 ♣,bot1,8
+42,medium,expert,5,5 ♦,"['5 ♠', '4 ♣']",4 ♣,bot1,5
+42,medium,expert,6,10 ♦,"['10 ♠', '10 ♣']",10 ♣,"['bot1', 'bot2']",10
+42,medium,expert,7,3 ♦,"['3 ♠', '5 ♣']",5 ♣,bot2,3
+42,medium,expert,8,6 ♦,"['6 ♠', '6 ♣']",6 ♣,"['bot1', 'bot2']",6
+42,medium,expert,9,9 ♦,"['9 ♠', '7 ♣']",7 ♣,bot1,9
+42,medium,expert,10,1 ♦,"['1 ♠', '8 ♣']",8 ♣,bot2,1
+42,medium,expert,11,12 ♦,"['12 ♠', '12 ♣']",12 ♣,"['bot1', 'bot2']",12
+42,medium,expert,12,2 ♦,"['2 ♠', '9 ♣']",9 ♣,bot2,2
+42,medium,expert,13,13 ♦,"['13 ♠', '13 ♣']",13 ♣,"['bot1', 'bot2']",13
+
+Game Number,42,Final Scores
+bot1,59.0
+bot2,32.0
+Winner,bot1
+
+43,medium,expert,1,1 ♦,"['1 ♠', '1 ♣']",1 ♣,"['bot1', 'bot2']",1
+43,medium,expert,2,11 ♦,"['11 ♠', '11 ♣']",11 ♣,"['bot1', 'bot2']",11
+43,medium,expert,3,2 ♦,"['2 ♠', '2 ♣']",2 ♣,"['bot1', 'bot2']",2
+43,medium,expert,4,4 ♦,"['4 ♠', '3 ♣']",3 ♣,bot1,4
+43,medium,expert,5,9 ♦,"['9 ♠', '4 ♣']",4 ♣,bot1,9
+43,medium,expert,6,13 ♦,"['13 ♠', '13 ♣']",13 ♣,"['bot1', 'bot2']",13
+43,medium,expert,7,6 ♦,"['6 ♠', '5 ♣']",5 ♣,bot1,6
+43,medium,expert,8,3 ♦,"['3 ♠', '6 ♣']",6 ♣,bot2,3
+43,medium,expert,9,10 ♦,"['10 ♠', '10 ♣']",10 ♣,"['bot1', 'bot2']",10
+43,medium,expert,10,8 ♦,"['8 ♠', '7 ♣']",7 ♣,bot1,8
+43,medium,expert,11,12 ♦,"['12 ♠', '12 ♣']",12 ♣,"['bot1', 'bot2']",12
+43,medium,expert,12,7 ♦,"['7 ♠', '8 ♣']",8 ♣,bot2,7
+43,medium,expert,13,5 ♦,"['5 ♠', '9 ♣']",9 ♣,bot2,5
+
+Game Number,43,Final Scores
+bot1,51.5
+bot2,39.5
+Winner,bot1
+
+44,medium,expert,1,13 ♦,"['13 ♠', '13 ♣']",13 ♣,"['bot1', 'bot2']",13
+44,medium,expert,2,2 ♦,"['2 ♠', '1 ♣']",1 ♣,bot1,2
+44,medium,expert,3,4 ♦,"['4 ♠', '2 ♣']",2 ♣,bot1,4
+44,medium,expert,4,11 ♦,"['11 ♠', '11 ♣']",11 ♣,"['bot1', 'bot2']",11
+44,medium,expert,5,1 ♦,"['1 ♠', '3 ♣']",3 ♣,bot2,1
+44,medium,expert,6,8 ♦,"['8 ♠', '4 ♣']",4 ♣,bot1,8
+44,medium,expert,7,5 ♦,"['5 ♠', '5 ♣']",5 ♣,"['bot1', 'bot2']",5
+44,medium,expert,8,7 ♦,"['7 ♠', '6 ♣']",6 ♣,bot1,7
+44,medium,expert,9,3 ♦,"['3 ♠', '7 ♣']",7 ♣,bot2,3
+44,medium,expert,10,10 ♦,"['10 ♠', '10 ♣']",10 ♣,"['bot1', 'bot2']",10
+44,medium,expert,11,6 ♦,"['6 ♠', '8 ♣']",8 ♣,bot2,6
+44,medium,expert,12,12 ♦,"['12 ♠', '12 ♣']",12 ♣,"['bot1', 'bot2']",12
+44,medium,expert,13,9 ♦,"['9 ♠', '9 ♣']",9 ♣,"['bot1', 'bot2']",9
+
+Game Number,44,Final Scores
+bot1,51.0
+bot2,40.0
+Winner,bot1
+
+45,medium,expert,1,6 ♦,"['6 ♠', '1 ♣']",1 ♣,bot1,6
+45,medium,expert,2,13 ♦,"['13 ♠', '13 ♣']",13 ♣,"['bot1', 'bot2']",13
+45,medium,expert,3,12 ♦,"['12 ♠', '12 ♣']",12 ♣,"['bot1', 'bot2']",12
+45,medium,expert,4,10 ♦,"['10 ♠', '10 ♣']",10 ♣,"['bot1', 'bot2']",10
+45,medium,expert,5,3 ♦,"['3 ♠', '2 ♣']",2 ♣,bot1,3
+45,medium,expert,6,8 ♦,"['8 ♠', '3 ♣']",3 ♣,bot1,8
+45,medium,expert,7,9 ♦,"['9 ♠', '4 ♣']",4 ♣,bot1,9
+45,medium,expert,8,7 ♦,"['7 ♠', '5 ♣']",5 ♣,bot1,7
+45,medium,expert,9,11 ♦,"['11 ♠', '11 ♣']",11 ♣,"['bot1', 'bot2']",11
+45,medium,expert,10,2 ♦,"['2 ♠', '6 ♣']",6 ♣,bot2,2
+45,medium,expert,11,5 ♦,"['5 ♠', '7 ♣']",7 ♣,bot2,5
+45,medium,expert,12,1 ♦,"['1 ♠', '8 ♣']",8 ♣,bot2,1
+45,medium,expert,13,4 ♦,"['4 ♠', '9 ♣']",9 ♣,bot2,4
+
+Game Number,45,Final Scores
+bot1,56.0
+bot2,35.0
+Winner,bot1
+
+46,medium,expert,1,2 ♦,"['2 ♠', '1 ♣']",1 ♣,bot1,2
+46,medium,expert,2,1 ♦,"['1 ♠', '2 ♣']",2 ♣,bot2,1
+46,medium,expert,3,12 ♦,"['12 ♠', '12 ♣']",12 ♣,"['bot1', 'bot2']",12
+46,medium,expert,4,7 ♦,"['7 ♠', '3 ♣']",3 ♣,bot1,7
+46,medium,expert,5,10 ♦,"['10 ♠', '10 ♣']",10 ♣,"['bot1', 'bot2']",10
+46,medium,expert,6,6 ♦,"['6 ♠', '4 ♣']",4 ♣,bot1,6
+46,medium,expert,7,11 ♦,"['11 ♠', '11 ♣']",11 ♣,"['bot1', 'bot2']",11
+46,medium,expert,8,9 ♦,"['9 ♠', '5 ♣']",5 ♣,bot1,9
+46,medium,expert,9,8 ♦,"['8 ♠', '6 ♣']",6 ♣,bot1,8
+46,medium,expert,10,4 ♦,"['4 ♠', '7 ♣']",7 ♣,bot2,4
+46,medium,expert,11,5 ♦,"['5 ♠', '8 ♣']",8 ♣,bot2,5
+46,medium,expert,12,3 ♦,"['3 ♠', '9 ♣']",9 ♣,bot2,3
+46,medium,expert,13,13 ♦,"['13 ♠', '13 ♣']",13 ♣,"['bot1', 'bot2']",13
+
+Game Number,46,Final Scores
+bot1,55.0
+bot2,36.0
+Winner,bot1
+
+47,medium,expert,1,7 ♦,"['7 ♠', '1 ♣']",1 ♣,bot1,7
+47,medium,expert,2,8 ♦,"['8 ♠', '2 ♣']",2 ♣,bot1,8
+47,medium,expert,3,1 ♦,"['1 ♠', '3 ♣']",3 ♣,bot2,1
+47,medium,expert,4,13 ♦,"['13 ♠', '13 ♣']",13 ♣,"['bot1', 'bot2']",13
+47,medium,expert,5,10 ♦,"['10 ♠', '10 ♣']",10 ♣,"['bot1', 'bot2']",10
+47,medium,expert,6,6 ♦,"['6 ♠', '4 ♣']",4 ♣,bot1,6
+47,medium,expert,7,2 ♦,"['2 ♠', '5 ♣']",5 ♣,bot2,2
+47,medium,expert,8,11 ♦,"['11 ♠', '11 ♣']",11 ♣,"['bot1', 'bot2']",11
+47,medium,expert,9,5 ♦,"['5 ♠', '6 ♣']",6 ♣,bot2,5
+47,medium,expert,10,9 ♦,"['9 ♠', '7 ♣']",7 ♣,bot1,9
+47,medium,expert,11,12 ♦,"['12 ♠', '12 ♣']",12 ♣,"['bot1', 'bot2']",12
+47,medium,expert,12,3 ♦,"['3 ♠', '8 ♣']",8 ♣,bot2,3
+47,medium,expert,13,4 ♦,"['4 ♠', '9 ♣']",9 ♣,bot2,4
+
+Game Number,47,Final Scores
+bot1,53.0
+bot2,38.0
+Winner,bot1
+
+48,medium,expert,1,11 ♦,"['11 ♠', '11 ♣']",11 ♣,"['bot1', 'bot2']",11
+48,medium,expert,2,9 ♦,"['9 ♠', '1 ♣']",1 ♣,bot1,9
+48,medium,expert,3,12 ♦,"['12 ♠', '12 ♣']",12 ♣,"['bot1', 'bot2']",12
+48,medium,expert,4,6 ♦,"['6 ♠', '2 ♣']",2 ♣,bot1,6
+48,medium,expert,5,3 ♦,"['3 ♠', '3 ♣']",3 ♣,"['bot1', 'bot2']",3
+48,medium,expert,6,1 ♦,"['1 ♠', '4 ♣']",4 ♣,bot2,1
+48,medium,expert,7,8 ♦,"['8 ♠', '5 ♣']",5 ♣,bot1,8
+48,medium,expert,8,5 ♦,"['5 ♠', '6 ♣']",6 ♣,bot2,5
+48,medium,expert,9,10 ♦,"['10 ♠', '10 ♣']",10 ♣,"['bot1', 'bot2']",10
+48,medium,expert,10,13 ♦,"['13 ♠', '13 ♣']",13 ♣,"['bot1', 'bot2']",13
+48,medium,expert,11,4 ♦,"['4 ♠', '7 ♣']",7 ♣,bot2,4
+48,medium,expert,12,2 ♦,"['2 ♠', '8 ♣']",8 ♣,bot2,2
+48,medium,expert,13,7 ♦,"['7 ♠', '9 ♣']",9 ♣,bot2,7
+
+Game Number,48,Final Scores
+bot1,47.5
+bot2,43.5
+Winner,bot1
+
+49,medium,expert,1,4 ♦,"['4 ♠', '1 ♣']",1 ♣,bot1,4
+49,medium,expert,2,6 ♦,"['6 ♠', '2 ♣']",2 ♣,bot1,6
+49,medium,expert,3,2 ♦,"['2 ♠', '3 ♣']",3 ♣,bot2,2
+49,medium,expert,4,11 ♦,"['11 ♠', '11 ♣']",11 ♣,"['bot1', 'bot2']",11
+49,medium,expert,5,1 ♦,"['1 ♠', '4 ♣']",4 ♣,bot2,1
+49,medium,expert,6,3 ♦,"['3 ♠', '5 ♣']",5 ♣,bot2,3
+49,medium,expert,7,12 ♦,"['12 ♠', '12 ♣']",12 ♣,"['bot1', 'bot2']",12
+49,medium,expert,8,5 ♦,"['5 ♠', '6 ♣']",6 ♣,bot2,5
+49,medium,expert,9,7 ♦,"['7 ♠', '7 ♣']",7 ♣,"['bot1', 'bot2']",7
+49,medium,expert,10,9 ♦,"['9 ♠', '8 ♣']",8 ♣,bot1,9
+49,medium,expert,11,8 ♦,"['8 ♠', '9 ♣']",9 ♣,bot2,8
+49,medium,expert,12,13 ♦,"['13 ♠', '13 ♣']",13 ♣,"['bot1', 'bot2']",13
+49,medium,expert,13,10 ♦,"['10 ♠', '10 ♣']",10 ♣,"['bot1', 'bot2']",10
+
+Game Number,49,Final Scores
+bot1,45.5
+bot2,45.5
+Winner,"['bot1', 'bot2']"
+
+50,medium,expert,1,7 ♦,"['7 ♠', '1 ♣']",1 ♣,bot1,7
+50,medium,expert,2,10 ♦,"['10 ♠', '10 ♣']",10 ♣,"['bot1', 'bot2']",10
+50,medium,expert,3,2 ♦,"['2 ♠', '2 ♣']",2 ♣,"['bot1', 'bot2']",2
+50,medium,expert,4,12 ♦,"['12 ♠', '12 ♣']",12 ♣,"['bot1', 'bot2']",12
+50,medium,expert,5,4 ♦,"['4 ♠', '3 ♣']",3 ♣,bot1,4
+50,medium,expert,6,1 ♦,"['1 ♠', '4 ♣']",4 ♣,bot2,1
+50,medium,expert,7,3 ♦,"['3 ♠', '5 ♣']",5 ♣,bot2,3
+50,medium,expert,8,6 ♦,"['6 ♠', '6 ♣']",6 ♣,"['bot1', 'bot2']",6
+50,medium,expert,9,9 ♦,"['9 ♠', '7 ♣']",7 ♣,bot1,9
+50,medium,expert,10,13 ♦,"['13 ♠', '13 ♣']",13 ♣,"['bot1', 'bot2']",13
+50,medium,expert,11,8 ♦,"['8 ♠', '8 ♣']",8 ♣,"['bot1', 'bot2']",8
+50,medium,expert,12,5 ♦,"['5 ♠', '9 ♣']",9 ♣,bot2,5
+50,medium,expert,13,11 ♦,"['11 ♠', '11 ♣']",11 ♣,"['bot1', 'bot2']",11
+
+Game Number,50,Final Scores
+bot1,51.0
+bot2,40.0
+Winner,bot1
+
+51,medium,expert,1,9 ♦,"['9 ♠', '1 ♣']",1 ♣,bot1,9
+51,medium,expert,2,13 ♦,"['13 ♠', '13 ♣']",13 ♣,"['bot1', 'bot2']",13
+51,medium,expert,3,11 ♦,"['11 ♠', '11 ♣']",11 ♣,"['bot1', 'bot2']",11
+51,medium,expert,4,8 ♦,"['8 ♠', '2 ♣']",2 ♣,bot1,8
+51,medium,expert,5,1 ♦,"['1 ♠', '3 ♣']",3 ♣,bot2,1
+51,medium,expert,6,3 ♦,"['3 ♠', '4 ♣']",4 ♣,bot2,3
+51,medium,expert,7,5 ♦,"['5 ♠', '5 ♣']",5 ♣,"['bot1', 'bot2']",5
+51,medium,expert,8,6 ♦,"['6 ♠', '6 ♣']",6 ♣,"['bot1', 'bot2']",6
+51,medium,expert,9,10 ♦,"['10 ♠', '10 ♣']",10 ♣,"['bot1', 'bot2']",10
+51,medium,expert,10,2 ♦,"['2 ♠', '7 ♣']",7 ♣,bot2,2
+51,medium,expert,11,7 ♦,"['7 ♠', '8 ♣']",8 ♣,bot2,7
+51,medium,expert,12,4 ♦,"['4 ♠', '9 ♣']",9 ♣,bot2,4
+51,medium,expert,13,12 ♦,"['12 ♠', '12 ♣']",12 ♣,"['bot1', 'bot2']",12
+
+Game Number,51,Final Scores
+bot1,45.5
+bot2,45.5
+Winner,"['bot1', 'bot2']"
+
+52,medium,expert,1,2 ♦,"['2 ♠', '1 ♣']",1 ♣,bot1,2
+52,medium,expert,2,3 ♦,"['3 ♠', '2 ♣']",2 ♣,bot1,3
+52,medium,expert,3,8 ♦,"['8 ♠', '3 ♣']",3 ♣,bot1,8
+52,medium,expert,4,10 ♦,"['10 ♠', '10 ♣']",10 ♣,"['bot1', 'bot2']",10
+52,medium,expert,5,13 ♦,"['13 ♠', '13 ♣']",13 ♣,"['bot1', 'bot2']",13
+52,medium,expert,6,5 ♦,"['5 ♠', '4 ♣']",4 ♣,bot1,5
+52,medium,expert,7,7 ♦,"['7 ♠', '5 ♣']",5 ♣,bot1,7
+52,medium,expert,8,11 ♦,"['11 ♠', '11 ♣']",11 ♣,"['bot1', 'bot2']",11
+52,medium,expert,9,12 ♦,"['12 ♠', '12 ♣']",12 ♣,"['bot1', 'bot2']",12
+52,medium,expert,10,6 ♦,"['6 ♠', '6 ♣']",6 ♣,"['bot1', 'bot2']",6
+52,medium,expert,11,4 ♦,"['4 ♠', '7 ♣']",7 ♣,bot2,4
+52,medium,expert,12,9 ♦,"['9 ♠', '8 ♣']",8 ♣,bot1,9
+52,medium,expert,13,1 ♦,"['1 ♠', '9 ♣']",9 ♣,bot2,1
+
+Game Number,52,Final Scores
+bot1,60.0
+bot2,31.0
+Winner,bot1
+
+53,medium,expert,1,9 ♦,"['9 ♠', '1 ♣']",1 ♣,bot1,9
+53,medium,expert,2,6 ♦,"['6 ♠', '2 ♣']",2 ♣,bot1,6
+53,medium,expert,3,2 ♦,"['2 ♠', '3 ♣']",3 ♣,bot2,2
+53,medium,expert,4,3 ♦,"['3 ♠', '4 ♣']",4 ♣,bot2,3
+53,medium,expert,5,12 ♦,"['12 ♠', '12 ♣']",12 ♣,"['bot1', 'bot2']",12
+53,medium,expert,6,11 ♦,"['11 ♠', '11 ♣']",11 ♣,"['bot1', 'bot2']",11
+53,medium,expert,7,8 ♦,"['8 ♠', '5 ♣']",5 ♣,bot1,8
+53,medium,expert,8,10 ♦,"['10 ♠', '10 ♣']",10 ♣,"['bot1', 'bot2']",10
+53,medium,expert,9,5 ♦,"['5 ♠', '6 ♣']",6 ♣,bot2,5
+53,medium,expert,10,7 ♦,"['7 ♠', '7 ♣']",7 ♣,"['bot1', 'bot2']",7
+53,medium,expert,11,1 ♦,"['1 ♠', '8 ♣']",8 ♣,bot2,1
+53,medium,expert,12,4 ♦,"['4 ♠', '9 ♣']",9 ♣,bot2,4
+53,medium,expert,13,13 ♦,"['13 ♠', '13 ♣']",13 ♣,"['bot1', 'bot2']",13
+
+Game Number,53,Final Scores
+bot1,49.5
+bot2,41.5
+Winner,bot1
+
+54,medium,expert,1,6 ♦,"['6 ♠', '1 ♣']",1 ♣,bot1,6
+54,medium,expert,2,11 ♦,"['11 ♠', '11 ♣']",11 ♣,"['bot1', 'bot2']",11
+54,medium,expert,3,5 ♦,"['5 ♠', '2 ♣']",2 ♣,bot1,5
+54,medium,expert,4,12 ♦,"['12 ♠', '12 ♣']",12 ♣,"['bot1', 'bot2']",12
+54,medium,expert,5,13 ♦,"['13 ♠', '13 ♣']",13 ♣,"['bot1', 'bot2']",13
+54,medium,expert,6,4 ♦,"['4 ♠', '3 ♣']",3 ♣,bot1,4
+54,medium,expert,7,10 ♦,"['10 ♠', '10 ♣']",10 ♣,"['bot1', 'bot2']",10
+54,medium,expert,8,3 ♦,"['3 ♠', '4 ♣']",4 ♣,bot2,3
+54,medium,expert,9,2 ♦,"['2 ♠', '5 ♣']",5 ♣,bot2,2
+54,medium,expert,10,8 ♦,"['8 ♠', '6 ♣']",6 ♣,bot1,8
+54,medium,expert,11,7 ♦,"['7 ♠', '7 ♣']",7 ♣,"['bot1', 'bot2']",7
+54,medium,expert,12,9 ♦,"['9 ♠', '8 ♣']",8 ♣,bot1,9
+54,medium,expert,13,1 ♦,"['1 ♠', '9 ♣']",9 ♣,bot2,1
+
+Game Number,54,Final Scores
+bot1,58.5
+bot2,32.5
+Winner,bot1
+
+55,medium,expert,1,4 ♦,"['4 ♠', '1 ♣']",1 ♣,bot1,4
+55,medium,expert,2,13 ♦,"['13 ♠', '13 ♣']",13 ♣,"['bot1', 'bot2']",13
+55,medium,expert,3,7 ♦,"['7 ♠', '2 ♣']",2 ♣,bot1,7
+55,medium,expert,4,6 ♦,"['6 ♠', '3 ♣']",3 ♣,bot1,6
+55,medium,expert,5,10 ♦,"['10 ♠', '10 ♣']",10 ♣,"['bot1', 'bot2']",10
+55,medium,expert,6,11 ♦,"['11 ♠', '11 ♣']",11 ♣,"['bot1', 'bot2']",11
+55,medium,expert,7,9 ♦,"['9 ♠', '4 ♣']",4 ♣,bot1,9
+55,medium,expert,8,2 ♦,"['2 ♠', '5 ♣']",5 ♣,bot2,2
+55,medium,expert,9,12 ♦,"['12 ♠', '12 ♣']",12 ♣,"['bot1', 'bot2']",12
+55,medium,expert,10,8 ♦,"['8 ♠', '6 ♣']",6 ♣,bot1,8
+55,medium,expert,11,5 ♦,"['5 ♠', '7 ♣']",7 ♣,bot2,5
+55,medium,expert,12,1 ♦,"['1 ♠', '8 ♣']",8 ♣,bot2,1
+55,medium,expert,13,3 ♦,"['3 ♠', '9 ♣']",9 ♣,bot2,3
+
+Game Number,55,Final Scores
+bot1,57.0
+bot2,34.0
+Winner,bot1
+
+56,medium,expert,1,5 ♦,"['5 ♠', '1 ♣']",1 ♣,bot1,5
+56,medium,expert,2,7 ♦,"['7 ♠', '2 ♣']",2 ♣,bot1,7
+56,medium,expert,3,9 ♦,"['9 ♠', '3 ♣']",3 ♣,bot1,9
+56,medium,expert,4,13 ♦,"['13 ♠', '13 ♣']",13 ♣,"['bot1', 'bot2']",13
+56,medium,expert,5,4 ♦,"['4 ♠', '4 ♣']",4 ♣,"['bot1', 'bot2']",4
+56,medium,expert,6,6 ♦,"['6 ♠', '5 ♣']",5 ♣,bot1,6
+56,medium,expert,7,2 ♦,"['2 ♠', '6 ♣']",6 ♣,bot2,2
+56,medium,expert,8,3 ♦,"['3 ♠', '7 ♣']",7 ♣,bot2,3
+56,medium,expert,9,12 ♦,"['12 ♠', '12 ♣']",12 ♣,"['bot1', 'bot2']",12
+56,medium,expert,10,10 ♦,"['10 ♠', '10 ♣']",10 ♣,"['bot1', 'bot2']",10
+56,medium,expert,11,11 ♦,"['11 ♠', '11 ♣']",11 ♣,"['bot1', 'bot2']",11
+56,medium,expert,12,1 ♦,"['1 ♠', '8 ♣']",8 ♣,bot2,1
+56,medium,expert,13,8 ♦,"['8 ♠', '9 ♣']",9 ♣,bot2,8
+
+Game Number,56,Final Scores
+bot1,52.0
+bot2,39.0
+Winner,bot1
+
+57,medium,expert,1,7 ♦,"['7 ♠', '1 ♣']",1 ♣,bot1,7
+57,medium,expert,2,11 ♦,"['11 ♠', '11 ♣']",11 ♣,"['bot1', 'bot2']",11
+57,medium,expert,3,5 ♦,"['5 ♠', '2 ♣']",2 ♣,bot1,5
+57,medium,expert,4,13 ♦,"['13 ♠', '13 ♣']",13 ♣,"['bot1', 'bot2']",13
+57,medium,expert,5,2 ♦,"['2 ♠', '3 ♣']",3 ♣,bot2,2
+57,medium,expert,6,10 ♦,"['10 ♠', '10 ♣']",10 ♣,"['bot1', 'bot2']",10
+57,medium,expert,7,6 ♦,"['6 ♠', '4 ♣']",4 ♣,bot1,6
+57,medium,expert,8,8 ♦,"['8 ♠', '5 ♣']",5 ♣,bot1,8
+57,medium,expert,9,12 ♦,"['12 ♠', '12 ♣']",12 ♣,"['bot1', 'bot2']",12
+57,medium,expert,10,9 ♦,"['9 ♠', '6 ♣']",6 ♣,bot1,9
+57,medium,expert,11,4 ♦,"['4 ♠', '7 ♣']",7 ♣,bot2,4
+57,medium,expert,12,3 ♦,"['3 ♠', '8 ♣']",8 ♣,bot2,3
+57,medium,expert,13,1 ♦,"['1 ♠', '9 ♣']",9 ♣,bot2,1
+
+Game Number,57,Final Scores
+bot1,58.0
+bot2,33.0
+Winner,bot1
+
+58,medium,expert,1,9 ♦,"['9 ♠', '1 ♣']",1 ♣,bot1,9
+58,medium,expert,2,3 ♦,"['3 ♠', '2 ♣']",2 ♣,bot1,3
+58,medium,expert,3,13 ♦,"['13 ♠', '13 ♣']",13 ♣,"['bot1', 'bot2']",13
+58,medium,expert,4,10 ♦,"['10 ♠', '10 ♣']",10 ♣,"['bot1', 'bot2']",10
+58,medium,expert,5,6 ♦,"['6 ♠', '3 ♣']",3 ♣,bot1,6
+58,medium,expert,6,5 ♦,"['5 ♠', '4 ♣']",4 ♣,bot1,5
+58,medium,expert,7,8 ♦,"['8 ♠', '5 ♣']",5 ♣,bot1,8
+58,medium,expert,8,2 ♦,"['2 ♠', '6 ♣']",6 ♣,bot2,2
+58,medium,expert,9,11 ♦,"['11 ♠', '11 ♣']",11 ♣,"['bot1', 'bot2']",11
+58,medium,expert,10,1 ♦,"['1 ♠', '7 ♣']",7 ♣,bot2,1
+58,medium,expert,11,7 ♦,"['7 ♠', '8 ♣']",8 ♣,bot2,7
+58,medium,expert,12,4 ♦,"['4 ♠', '9 ♣']",9 ♣,bot2,4
+58,medium,expert,13,12 ♦,"['12 ♠', '12 ♣']",12 ♣,"['bot1', 'bot2']",12
+
+Game Number,58,Final Scores
+bot1,54.0
+bot2,37.0
+Winner,bot1
+
+59,medium,expert,1,1 ♦,"['1 ♠', '1 ♣']",1 ♣,"['bot1', 'bot2']",1
+59,medium,expert,2,4 ♦,"['4 ♠', '2 ♣']",2 ♣,bot1,4
+59,medium,expert,3,13 ♦,"['13 ♠', '13 ♣']",13 ♣,"['bot1', 'bot2']",13
+59,medium,expert,4,9 ♦,"['9 ♠', '3 ♣']",3 ♣,bot1,9
+59,medium,expert,5,12 ♦,"['12 ♠', '12 ♣']",12 ♣,"['bot1', 'bot2']",12
+59,medium,expert,6,6 ♦,"['6 ♠', '4 ♣']",4 ♣,bot1,6
+59,medium,expert,7,10 ♦,"['10 ♠', '10 ♣']",10 ♣,"['bot1', 'bot2']",10
+59,medium,expert,8,5 ♦,"['5 ♠', '5 ♣']",5 ♣,"['bot1', 'bot2']",5
+59,medium,expert,9,11 ♦,"['11 ♠', '11 ♣']",11 ♣,"['bot1', 'bot2']",11
+59,medium,expert,10,2 ♦,"['2 ♠', '6 ♣']",6 ♣,bot2,2
+59,medium,expert,11,7 ♦,"['7 ♠', '7 ♣']",7 ♣,"['bot1', 'bot2']",7
+59,medium,expert,12,3 ♦,"['3 ♠', '8 ♣']",8 ♣,bot2,3
+59,medium,expert,13,8 ♦,"['8 ♠', '9 ♣']",9 ♣,bot2,8
+
+Game Number,59,Final Scores
+bot1,48.5
+bot2,42.5
+Winner,bot1
+
+60,medium,expert,1,4 ♦,"['4 ♠', '1 ♣']",1 ♣,bot1,4
+60,medium,expert,2,2 ♦,"['2 ♠', '2 ♣']",2 ♣,"['bot1', 'bot2']",2
+60,medium,expert,3,8 ♦,"['8 ♠', '3 ♣']",3 ♣,bot1,8
+60,medium,expert,4,1 ♦,"['1 ♠', '4 ♣']",4 ♣,bot2,1
+60,medium,expert,5,13 ♦,"['13 ♠', '13 ♣']",13 ♣,"['bot1', 'bot2']",13
+60,medium,expert,6,7 ♦,"['7 ♠', '5 ♣']",5 ♣,bot1,7
+60,medium,expert,7,10 ♦,"['10 ♠', '10 ♣']",10 ♣,"['bot1', 'bot2']",10
+60,medium,expert,8,3 ♦,"['3 ♠', '6 ♣']",6 ♣,bot2,3
+60,medium,expert,9,11 ♦,"['11 ♠', '11 ♣']",11 ♣,"['bot1', 'bot2']",11
+60,medium,expert,10,5 ♦,"['5 ♠', '7 ♣']",7 ♣,bot2,5
+60,medium,expert,11,9 ♦,"['9 ♠', '8 ♣']",8 ♣,bot1,9
+60,medium,expert,12,12 ♦,"['12 ♠', '12 ♣']",12 ♣,"['bot1', 'bot2']",12
+60,medium,expert,13,6 ♦,"['6 ♠', '9 ♣']",9 ♣,bot2,6
+
+Game Number,60,Final Scores
+bot1,52.0
+bot2,39.0
+Winner,bot1
+
+61,medium,expert,1,11 ♦,"['11 ♠', '11 ♣']",11 ♣,"['bot1', 'bot2']",11
+61,medium,expert,2,8 ♦,"['8 ♠', '1 ♣']",1 ♣,bot1,8
+61,medium,expert,3,3 ♦,"['3 ♠', '2 ♣']",2 ♣,bot1,3
+61,medium,expert,4,2 ♦,"['2 ♠', '3 ♣']",3 ♣,bot2,2
+61,medium,expert,5,12 ♦,"['12 ♠', '12 ♣']",12 ♣,"['bot1', 'bot2']",12
+61,medium,expert,6,1 ♦,"['1 ♠', '4 ♣']",4 ♣,bot2,1
+61,medium,expert,7,5 ♦,"['5 ♠', '5 ♣']",5 ♣,"['bot1', 'bot2']",5
+61,medium,expert,8,4 ♦,"['4 ♠', '6 ♣']",6 ♣,bot2,4
+61,medium,expert,9,13 ♦,"['13 ♠', '13 ♣']",13 ♣,"['bot1', 'bot2']",13
+61,medium,expert,10,7 ♦,"['7 ♠', '7 ♣']",7 ♣,"['bot1', 'bot2']",7
+61,medium,expert,11,9 ♦,"['9 ♠', '8 ♣']",8 ♣,bot1,9
+61,medium,expert,12,6 ♦,"['6 ♠', '9 ♣']",9 ♣,bot2,6
+61,medium,expert,13,10 ♦,"['10 ♠', '10 ♣']",10 ♣,"['bot1', 'bot2']",10
+
+Game Number,61,Final Scores
+bot1,49.0
+bot2,42.0
+Winner,bot1
+
+62,medium,expert,1,1 ♦,"['1 ♠', '1 ♣']",1 ♣,"['bot1', 'bot2']",1
+62,medium,expert,2,11 ♦,"['11 ♠', '11 ♣']",11 ♣,"['bot1', 'bot2']",11
+62,medium,expert,3,6 ♦,"['6 ♠', '2 ♣']",2 ♣,bot1,6
+62,medium,expert,4,7 ♦,"['7 ♠', '3 ♣']",3 ♣,bot1,7
+62,medium,expert,5,4 ♦,"['4 ♠', '4 ♣']",4 ♣,"['bot1', 'bot2']",4
+62,medium,expert,6,12 ♦,"['12 ♠', '12 ♣']",12 ♣,"['bot1', 'bot2']",12
+62,medium,expert,7,13 ♦,"['13 ♠', '13 ♣']",13 ♣,"['bot1', 'bot2']",13
+62,medium,expert,8,10 ♦,"['10 ♠', '10 ♣']",10 ♣,"['bot1', 'bot2']",10
+62,medium,expert,9,5 ♦,"['5 ♠', '5 ♣']",5 ♣,"['bot1', 'bot2']",5
+62,medium,expert,10,9 ♦,"['9 ♠', '6 ♣']",6 ♣,bot1,9
+62,medium,expert,11,3 ♦,"['3 ♠', '7 ♣']",7 ♣,bot2,3
+62,medium,expert,12,2 ♦,"['2 ♠', '8 ♣']",8 ♣,bot2,2
+62,medium,expert,13,8 ♦,"['8 ♠', '9 ♣']",9 ♣,bot2,8
+
+Game Number,62,Final Scores
+bot1,50.0
+bot2,41.0
+Winner,bot1
+
+63,medium,expert,1,4 ♦,"['4 ♠', '1 ♣']",1 ♣,bot1,4
+63,medium,expert,2,5 ♦,"['5 ♠', '2 ♣']",2 ♣,bot1,5
+63,medium,expert,3,1 ♦,"['1 ♠', '3 ♣']",3 ♣,bot2,1
+63,medium,expert,4,9 ♦,"['9 ♠', '4 ♣']",4 ♣,bot1,9
+63,medium,expert,5,3 ♦,"['3 ♠', '5 ♣']",5 ♣,bot2,3
+63,medium,expert,6,2 ♦,"['2 ♠', '6 ♣']",6 ♣,bot2,2
+63,medium,expert,7,10 ♦,"['10 ♠', '10 ♣']",10 ♣,"['bot1', 'bot2']",10
+63,medium,expert,8,8 ♦,"['8 ♠', '7 ♣']",7 ♣,bot1,8
+63,medium,expert,9,6 ♦,"['6 ♠', '8 ♣']",8 ♣,bot2,6
+63,medium,expert,10,11 ♦,"['11 ♠', '11 ♣']",11 ♣,"['bot1', 'bot2']",11
+63,medium,expert,11,12 ♦,"['12 ♠', '12 ♣']",12 ♣,"['bot1', 'bot2']",12
+63,medium,expert,12,7 ♦,"['7 ♠', '9 ♣']",9 ♣,bot2,7
+63,medium,expert,13,13 ♦,"['13 ♠', '13 ♣']",13 ♣,"['bot1', 'bot2']",13
+
+Game Number,63,Final Scores
+bot1,49.0
+bot2,42.0
+Winner,bot1
+
+64,medium,expert,1,11 ♦,"['11 ♠', '11 ♣']",11 ♣,"['bot1', 'bot2']",11
+64,medium,expert,2,12 ♦,"['12 ♠', '12 ♣']",12 ♣,"['bot1', 'bot2']",12
+64,medium,expert,3,3 ♦,"['3 ♠', '1 ♣']",1 ♣,bot1,3
+64,medium,expert,4,7 ♦,"['7 ♠', '2 ♣']",2 ♣,bot1,7
+64,medium,expert,5,5 ♦,"['5 ♠', '3 ♣']",3 ♣,bot1,5
+64,medium,expert,6,13 ♦,"['13 ♠', '13 ♣']",13 ♣,"['bot1', 'bot2']",13
+64,medium,expert,7,2 ♦,"['2 ♠', '4 ♣']",4 ♣,bot2,2
+64,medium,expert,8,1 ♦,"['1 ♠', '5 ♣']",5 ♣,bot2,1
+64,medium,expert,9,4 ♦,"['4 ♠', '6 ♣']",6 ♣,bot2,4
+64,medium,expert,10,10 ♦,"['10 ♠', '10 ♣']",10 ♣,"['bot1', 'bot2']",10
+64,medium,expert,11,8 ♦,"['8 ♠', '7 ♣']",7 ♣,bot1,8
+64,medium,expert,12,9 ♦,"['9 ♠', '8 ♣']",8 ♣,bot1,9
+64,medium,expert,13,6 ♦,"['6 ♠', '9 ♣']",9 ♣,bot2,6
+
+Game Number,64,Final Scores
+bot1,55.0
+bot2,36.0
+Winner,bot1
+
+65,medium,expert,1,4 ♦,"['4 ♠', '1 ♣']",1 ♣,bot1,4
+65,medium,expert,2,6 ♦,"['6 ♠', '2 ♣']",2 ♣,bot1,6
+65,medium,expert,3,12 ♦,"['12 ♠', '12 ♣']",12 ♣,"['bot1', 'bot2']",12
+65,medium,expert,4,5 ♦,"['5 ♠', '3 ♣']",3 ♣,bot1,5
+65,medium,expert,5,1 ♦,"['1 ♠', '4 ♣']",4 ♣,bot2,1
+65,medium,expert,6,3 ♦,"['3 ♠', '5 ♣']",5 ♣,bot2,3
+65,medium,expert,7,7 ♦,"['7 ♠', '6 ♣']",6 ♣,bot1,7
+65,medium,expert,8,2 ♦,"['2 ♠', '7 ♣']",7 ♣,bot2,2
+65,medium,expert,9,11 ♦,"['11 ♠', '11 ♣']",11 ♣,"['bot1', 'bot2']",11
+65,medium,expert,10,8 ♦,"['8 ♠', '8 ♣']",8 ♣,"['bot1', 'bot2']",8
+65,medium,expert,11,10 ♦,"['10 ♠', '10 ♣']",10 ♣,"['bot1', 'bot2']",10
+65,medium,expert,12,9 ♦,"['9 ♠', '9 ♣']",9 ♣,"['bot1', 'bot2']",9
+65,medium,expert,13,13 ♦,"['13 ♠', '13 ♣']",13 ♣,"['bot1', 'bot2']",13
+
+Game Number,65,Final Scores
+bot1,53.5
+bot2,37.5
+Winner,bot1
+
+66,medium,expert,1,3 ♦,"['3 ♠', '1 ♣']",1 ♣,bot1,3
+66,medium,expert,2,8 ♦,"['8 ♠', '2 ♣']",2 ♣,bot1,8
+66,medium,expert,3,13 ♦,"['13 ♠', '13 ♣']",13 ♣,"['bot1', 'bot2']",13
+66,medium,expert,4,5 ♦,"['5 ♠', '3 ♣']",3 ♣,bot1,5
+66,medium,expert,5,2 ♦,"['2 ♠', '4 ♣']",4 ♣,bot2,2
+66,medium,expert,6,12 ♦,"['12 ♠', '12 ♣']",12 ♣,"['bot1', 'bot2']",12
+66,medium,expert,7,4 ♦,"['4 ♠', '5 ♣']",5 ♣,bot2,4
+66,medium,expert,8,6 ♦,"['6 ♠', '6 ♣']",6 ♣,"['bot1', 'bot2']",6
+66,medium,expert,9,9 ♦,"['9 ♠', '7 ♣']",7 ♣,bot1,9
+66,medium,expert,10,7 ♦,"['7 ♠', '8 ♣']",8 ♣,bot2,7
+66,medium,expert,11,11 ♦,"['11 ♠', '11 ♣']",11 ♣,"['bot1', 'bot2']",11
+66,medium,expert,12,10 ♦,"['10 ♠', '10 ♣']",10 ♣,"['bot1', 'bot2']",10
+66,medium,expert,13,1 ♦,"['1 ♠', '9 ♣']",9 ♣,bot2,1
+
+Game Number,66,Final Scores
+bot1,51.0
+bot2,40.0
+Winner,bot1
+
+67,medium,expert,1,5 ♦,"['5 ♠', '1 ♣']",1 ♣,bot1,5
+67,medium,expert,2,10 ♦,"['10 ♠', '10 ♣']",10 ♣,"['bot1', 'bot2']",10
+67,medium,expert,3,8 ♦,"['8 ♠', '2 ♣']",2 ♣,bot1,8
+67,medium,expert,4,2 ♦,"['2 ♠', '3 ♣']",3 ♣,bot2,2
+67,medium,expert,5,9 ♦,"['9 ♠', '4 ♣']",4 ♣,bot1,9
+67,medium,expert,6,11 ♦,"['11 ♠', '11 ♣']",11 ♣,"['bot1', 'bot2']",11
+67,medium,expert,7,4 ♦,"['4 ♠', '5 ♣']",5 ♣,bot2,4
+67,medium,expert,8,6 ♦,"['6 ♠', '6 ♣']",6 ♣,"['bot1', 'bot2']",6
+67,medium,expert,9,3 ♦,"['3 ♠', '7 ♣']",7 ♣,bot2,3
+67,medium,expert,10,7 ♦,"['7 ♠', '8 ♣']",8 ♣,bot2,7
+67,medium,expert,11,1 ♦,"['1 ♠', '9 ♣']",9 ♣,bot2,1
+67,medium,expert,12,13 ♦,"['13 ♠', '13 ♣']",13 ♣,"['bot1', 'bot2']",13
+67,medium,expert,13,12 ♦,"['12 ♠', '12 ♣']",12 ♣,"['bot1', 'bot2']",12
+
+Game Number,67,Final Scores
+bot1,48.0
+bot2,43.0
+Winner,bot1
+
+68,medium,expert,1,13 ♦,"['13 ♠', '13 ♣']",13 ♣,"['bot1', 'bot2']",13
+68,medium,expert,2,5 ♦,"['5 ♠', '1 ♣']",1 ♣,bot1,5
+68,medium,expert,3,12 ♦,"['12 ♠', '12 ♣']",12 ♣,"['bot1', 'bot2']",12
+68,medium,expert,4,1 ♦,"['1 ♠', '2 ♣']",2 ♣,bot2,1
+68,medium,expert,5,3 ♦,"['3 ♠', '3 ♣']",3 ♣,"['bot1', 'bot2']",3
+68,medium,expert,6,9 ♦,"['9 ♠', '4 ♣']",4 ♣,bot1,9
+68,medium,expert,7,8 ♦,"['8 ♠', '5 ♣']",5 ♣,bot1,8
+68,medium,expert,8,7 ♦,"['7 ♠', '6 ♣']",6 ♣,bot1,7
+68,medium,expert,9,2 ♦,"['2 ♠', '7 ♣']",7 ♣,bot2,2
+68,medium,expert,10,4 ♦,"['4 ♠', '8 ♣']",8 ♣,bot2,4
+68,medium,expert,11,11 ♦,"['11 ♠', '11 ♣']",11 ♣,"['bot1', 'bot2']",11
+68,medium,expert,12,10 ♦,"['10 ♠', '10 ♣']",10 ♣,"['bot1', 'bot2']",10
+68,medium,expert,13,6 ♦,"['6 ♠', '9 ♣']",9 ♣,bot2,6
+
+Game Number,68,Final Scores
+bot1,53.5
+bot2,37.5
+Winner,bot1
+
+69,medium,expert,1,12 ♦,"['12 ♠', '12 ♣']",12 ♣,"['bot1', 'bot2']",12
+69,medium,expert,2,8 ♦,"['8 ♠', '1 ♣']",1 ♣,bot1,8
+69,medium,expert,3,10 ♦,"['10 ♠', '10 ♣']",10 ♣,"['bot1', 'bot2']",10
+69,medium,expert,4,2 ♦,"['2 ♠', '2 ♣']",2 ♣,"['bot1', 'bot2']",2
+69,medium,expert,5,1 ♦,"['1 ♠', '3 ♣']",3 ♣,bot2,1
+69,medium,expert,6,5 ♦,"['5 ♠', '4 ♣']",4 ♣,bot1,5
+69,medium,expert,7,7 ♦,"['7 ♠', '5 ♣']",5 ♣,bot1,7
+69,medium,expert,8,9 ♦,"['9 ♠', '6 ♣']",6 ♣,bot1,9
+69,medium,expert,9,11 ♦,"['11 ♠', '11 ♣']",11 ♣,"['bot1', 'bot2']",11
+69,medium,expert,10,4 ♦,"['4 ♠', '7 ♣']",7 ♣,bot2,4
+69,medium,expert,11,3 ♦,"['3 ♠', '8 ♣']",8 ♣,bot2,3
+69,medium,expert,12,13 ♦,"['13 ♠', '13 ♣']",13 ♣,"['bot1', 'bot2']",13
+69,medium,expert,13,6 ♦,"['6 ♠', '9 ♣']",9 ♣,bot2,6
+
+Game Number,69,Final Scores
+bot1,53.0
+bot2,38.0
+Winner,bot1
+
+70,medium,expert,1,8 ♦,"['8 ♠', '1 ♣']",1 ♣,bot1,8
+70,medium,expert,2,4 ♦,"['4 ♠', '2 ♣']",2 ♣,bot1,4
+70,medium,expert,3,9 ♦,"['9 ♠', '3 ♣']",3 ♣,bot1,9
+70,medium,expert,4,7 ♦,"['7 ♠', '4 ♣']",4 ♣,bot1,7
+70,medium,expert,5,12 ♦,"['12 ♠', '12 ♣']",12 ♣,"['bot1', 'bot2']",12
+70,medium,expert,6,10 ♦,"['10 ♠', '10 ♣']",10 ♣,"['bot1', 'bot2']",10
+70,medium,expert,7,13 ♦,"['13 ♠', '13 ♣']",13 ♣,"['bot1', 'bot2']",13
+70,medium,expert,8,6 ♦,"['6 ♠', '5 ♣']",5 ♣,bot1,6
+70,medium,expert,9,11 ♦,"['11 ♠', '11 ♣']",11 ♣,"['bot1', 'bot2']",11
+70,medium,expert,10,5 ♦,"['5 ♠', '6 ♣']",6 ♣,bot2,5
+70,medium,expert,11,2 ♦,"['2 ♠', '7 ♣']",7 ♣,bot2,2
+70,medium,expert,12,1 ♦,"['1 ♠', '8 ♣']",8 ♣,bot2,1
+70,medium,expert,13,3 ♦,"['3 ♠', '9 ♣']",9 ♣,bot2,3
+
+Game Number,70,Final Scores
+bot1,57.0
+bot2,34.0
+Winner,bot1
+
+71,medium,expert,1,10 ♦,"['10 ♠', '10 ♣']",10 ♣,"['bot1', 'bot2']",10
+71,medium,expert,2,6 ♦,"['6 ♠', '1 ♣']",1 ♣,bot1,6
+71,medium,expert,3,7 ♦,"['7 ♠', '2 ♣']",2 ♣,bot1,7
+71,medium,expert,4,9 ♦,"['9 ♠', '3 ♣']",3 ♣,bot1,9
+71,medium,expert,5,3 ♦,"['3 ♠', '4 ♣']",4 ♣,bot2,3
+71,medium,expert,6,11 ♦,"['11 ♠', '11 ♣']",11 ♣,"['bot1', 'bot2']",11
+71,medium,expert,7,1 ♦,"['1 ♠', '5 ♣']",5 ♣,bot2,1
+71,medium,expert,8,12 ♦,"['12 ♠', '12 ♣']",12 ♣,"['bot1', 'bot2']",12
+71,medium,expert,9,4 ♦,"['4 ♠', '6 ♣']",6 ♣,bot2,4
+71,medium,expert,10,5 ♦,"['5 ♠', '7 ♣']",7 ♣,bot2,5
+71,medium,expert,11,13 ♦,"['13 ♠', '13 ♣']",13 ♣,"['bot1', 'bot2']",13
+71,medium,expert,12,2 ♦,"['2 ♠', '8 ♣']",8 ♣,bot2,2
+71,medium,expert,13,8 ♦,"['8 ♠', '9 ♣']",9 ♣,bot2,8
+
+Game Number,71,Final Scores
+bot1,45.0
+bot2,46.0
+Winner,bot2
+
+72,medium,expert,1,13 ♦,"['13 ♠', '13 ♣']",13 ♣,"['bot1', 'bot2']",13
+72,medium,expert,2,4 ♦,"['4 ♠', '1 ♣']",1 ♣,bot1,4
+72,medium,expert,3,12 ♦,"['12 ♠', '12 ♣']",12 ♣,"['bot1', 'bot2']",12
+72,medium,expert,4,10 ♦,"['10 ♠', '10 ♣']",10 ♣,"['bot1', 'bot2']",10
+72,medium,expert,5,9 ♦,"['9 ♠', '2 ♣']",2 ♣,bot1,9
+72,medium,expert,6,5 ♦,"['5 ♠', '3 ♣']",3 ♣,bot1,5
+72,medium,expert,7,6 ♦,"['6 ♠', '4 ♣']",4 ♣,bot1,6
+72,medium,expert,8,8 ♦,"['8 ♠', '5 ♣']",5 ♣,bot1,8
+72,medium,expert,9,2 ♦,"['2 ♠', '6 ♣']",6 ♣,bot2,2
+72,medium,expert,10,3 ♦,"['3 ♠', '7 ♣']",7 ♣,bot2,3
+72,medium,expert,11,7 ♦,"['7 ♠', '8 ♣']",8 ♣,bot2,7
+72,medium,expert,12,11 ♦,"['11 ♠', '11 ♣']",11 ♣,"['bot1', 'bot2']",11
+72,medium,expert,13,1 ♦,"['1 ♠', '9 ♣']",9 ♣,bot2,1
+
+Game Number,72,Final Scores
+bot1,55.0
+bot2,36.0
+Winner,bot1
+
+73,medium,expert,1,12 ♦,"['12 ♠', '12 ♣']",12 ♣,"['bot1', 'bot2']",12
+73,medium,expert,2,2 ♦,"['2 ♠', '1 ♣']",1 ♣,bot1,2
+73,medium,expert,3,11 ♦,"['11 ♠', '11 ♣']",11 ♣,"['bot1', 'bot2']",11
+73,medium,expert,4,5 ♦,"['5 ♠', '2 ♣']",2 ♣,bot1,5
+73,medium,expert,5,7 ♦,"['7 ♠', '3 ♣']",3 ♣,bot1,7
+73,medium,expert,6,6 ♦,"['6 ♠', '4 ♣']",4 ♣,bot1,6
+73,medium,expert,7,9 ♦,"['9 ♠', '5 ♣']",5 ♣,bot1,9
+73,medium,expert,8,10 ♦,"['10 ♠', '10 ♣']",10 ♣,"['bot1', 'bot2']",10
+73,medium,expert,9,4 ♦,"['4 ♠', '6 ♣']",6 ♣,bot2,4
+73,medium,expert,10,13 ♦,"['13 ♠', '13 ♣']",13 ♣,"['bot1', 'bot2']",13
+73,medium,expert,11,8 ♦,"['8 ♠', '7 ♣']",7 ♣,bot1,8
+73,medium,expert,12,3 ♦,"['3 ♠', '8 ♣']",8 ♣,bot2,3
+73,medium,expert,13,1 ♦,"['1 ♠', '9 ♣']",9 ♣,bot2,1
+
+Game Number,73,Final Scores
+bot1,60.0
+bot2,31.0
+Winner,bot1
+
+74,medium,expert,1,2 ♦,"['2 ♠', '1 ♣']",1 ♣,bot1,2
+74,medium,expert,2,11 ♦,"['11 ♠', '11 ♣']",11 ♣,"['bot1', 'bot2']",11
+74,medium,expert,3,9 ♦,"['9 ♠', '2 ♣']",2 ♣,bot1,9
+74,medium,expert,4,7 ♦,"['7 ♠', '3 ♣']",3 ♣,bot1,7
+74,medium,expert,5,10 ♦,"['10 ♠', '10 ♣']",10 ♣,"['bot1', 'bot2']",10
+74,medium,expert,6,3 ♦,"['3 ♠', '4 ♣']",4 ♣,bot2,3
+74,medium,expert,7,6 ♦,"['6 ♠', '5 ♣']",5 ♣,bot1,6
+74,medium,expert,8,13 ♦,"['13 ♠', '13 ♣']",13 ♣,"['bot1', 'bot2']",13
+74,medium,expert,9,5 ♦,"['5 ♠', '6 ♣']",6 ♣,bot2,5
+74,medium,expert,10,1 ♦,"['1 ♠', '7 ♣']",7 ♣,bot2,1
+74,medium,expert,11,4 ♦,"['4 ♠', '8 ♣']",8 ♣,bot2,4
+74,medium,expert,12,12 ♦,"['12 ♠', '12 ♣']",12 ♣,"['bot1', 'bot2']",12
+74,medium,expert,13,8 ♦,"['8 ♠', '9 ♣']",9 ♣,bot2,8
+
+Game Number,74,Final Scores
+bot1,47.0
+bot2,44.0
+Winner,bot1
+
+75,medium,expert,1,3 ♦,"['3 ♠', '1 ♣']",1 ♣,bot1,3
+75,medium,expert,2,9 ♦,"['9 ♠', '2 ♣']",2 ♣,bot1,9
+75,medium,expert,3,8 ♦,"['8 ♠', '3 ♣']",3 ♣,bot1,8
+75,medium,expert,4,13 ♦,"['13 ♠', '13 ♣']",13 ♣,"['bot1', 'bot2']",13
+75,medium,expert,5,11 ♦,"['11 ♠', '11 ♣']",11 ♣,"['bot1', 'bot2']",11
+75,medium,expert,6,4 ♦,"['4 ♠', '4 ♣']",4 ♣,"['bot1', 'bot2']",4
+75,medium,expert,7,12 ♦,"['12 ♠', '12 ♣']",12 ♣,"['bot1', 'bot2']",12
+75,medium,expert,8,6 ♦,"['6 ♠', '5 ♣']",5 ♣,bot1,6
+75,medium,expert,9,2 ♦,"['2 ♠', '6 ♣']",6 ♣,bot2,2
+75,medium,expert,10,1 ♦,"['1 ♠', '7 ♣']",7 ♣,bot2,1
+75,medium,expert,11,10 ♦,"['10 ♠', '10 ♣']",10 ♣,"['bot1', 'bot2']",10
+75,medium,expert,12,7 ♦,"['7 ♠', '8 ♣']",8 ♣,bot2,7
+75,medium,expert,13,5 ♦,"['5 ♠', '9 ♣']",9 ♣,bot2,5
+
+Game Number,75,Final Scores
+bot1,51.0
+bot2,40.0
+Winner,bot1
+
+76,medium,expert,1,11 ♦,"['11 ♠', '11 ♣']",11 ♣,"['bot1', 'bot2']",11
+76,medium,expert,2,13 ♦,"['13 ♠', '13 ♣']",13 ♣,"['bot1', 'bot2']",13
+76,medium,expert,3,2 ♦,"['2 ♠', '1 ♣']",1 ♣,bot1,2
+76,medium,expert,4,7 ♦,"['7 ♠', '2 ♣']",2 ♣,bot1,7
+76,medium,expert,5,10 ♦,"['10 ♠', '10 ♣']",10 ♣,"['bot1', 'bot2']",10
+76,medium,expert,6,1 ♦,"['1 ♠', '3 ♣']",3 ♣,bot2,1
+76,medium,expert,7,9 ♦,"['9 ♠', '4 ♣']",4 ♣,bot1,9
+76,medium,expert,8,6 ♦,"['6 ♠', '5 ♣']",5 ♣,bot1,6
+76,medium,expert,9,3 ♦,"['3 ♠', '6 ♣']",6 ♣,bot2,3
+76,medium,expert,10,4 ♦,"['4 ♠', '7 ♣']",7 ♣,bot2,4
+76,medium,expert,11,12 ♦,"['12 ♠', '12 ♣']",12 ♣,"['bot1', 'bot2']",12
+76,medium,expert,12,8 ♦,"['8 ♠', '8 ♣']",8 ♣,"['bot1', 'bot2']",8
+76,medium,expert,13,5 ♦,"['5 ♠', '9 ♣']",9 ♣,bot2,5
+
+Game Number,76,Final Scores
+bot1,51.0
+bot2,40.0
+Winner,bot1
+
+77,medium,expert,1,3 ♦,"['3 ♠', '1 ♣']",1 ♣,bot1,3
+77,medium,expert,2,12 ♦,"['12 ♠', '12 ♣']",12 ♣,"['bot1', 'bot2']",12
+77,medium,expert,3,6 ♦,"['6 ♠', '2 ♣']",2 ♣,bot1,6
+77,medium,expert,4,1 ♦,"['1 ♠', '3 ♣']",3 ♣,bot2,1
+77,medium,expert,5,11 ♦,"['11 ♠', '11 ♣']",11 ♣,"['bot1', 'bot2']",11
+77,medium,expert,6,7 ♦,"['7 ♠', '4 ♣']",4 ♣,bot1,7
+77,medium,expert,7,5 ♦,"['5 ♠', '5 ♣']",5 ♣,"['bot1', 'bot2']",5
+77,medium,expert,8,10 ♦,"['10 ♠', '10 ♣']",10 ♣,"['bot1', 'bot2']",10
+77,medium,expert,9,2 ♦,"['2 ♠', '6 ♣']",6 ♣,bot2,2
+77,medium,expert,10,13 ♦,"['13 ♠', '13 ♣']",13 ♣,"['bot1', 'bot2']",13
+77,medium,expert,11,9 ♦,"['9 ♠', '7 ♣']",7 ♣,bot1,9
+77,medium,expert,12,8 ♦,"['8 ♠', '8 ♣']",8 ♣,"['bot1', 'bot2']",8
+77,medium,expert,13,4 ♦,"['4 ♠', '9 ♣']",9 ♣,bot2,4
+
+Game Number,77,Final Scores
+bot1,54.5
+bot2,36.5
+Winner,bot1
+
+78,medium,expert,1,7 ♦,"['7 ♠', '1 ♣']",1 ♣,bot1,7
+78,medium,expert,2,2 ♦,"['2 ♠', '2 ♣']",2 ♣,"['bot1', 'bot2']",2
+78,medium,expert,3,11 ♦,"['11 ♠', '11 ♣']",11 ♣,"['bot1', 'bot2']",11
+78,medium,expert,4,10 ♦,"['10 ♠', '10 ♣']",10 ♣,"['bot1', 'bot2']",10
+78,medium,expert,5,1 ♦,"['1 ♠', '3 ♣']",3 ♣,bot2,1
+78,medium,expert,6,5 ♦,"['5 ♠', '4 ♣']",4 ♣,bot1,5
+78,medium,expert,7,13 ♦,"['13 ♠', '13 ♣']",13 ♣,"['bot1', 'bot2']",13
+78,medium,expert,8,4 ♦,"['4 ♠', '5 ♣']",5 ♣,bot2,4
+78,medium,expert,9,6 ♦,"['6 ♠', '6 ♣']",6 ♣,"['bot1', 'bot2']",6
+78,medium,expert,10,3 ♦,"['3 ♠', '7 ♣']",7 ♣,bot2,3
+78,medium,expert,11,9 ♦,"['9 ♠', '8 ♣']",8 ♣,bot1,9
+78,medium,expert,12,12 ♦,"['12 ♠', '12 ♣']",12 ♣,"['bot1', 'bot2']",12
+78,medium,expert,13,8 ♦,"['8 ♠', '9 ♣']",9 ♣,bot2,8
+
+Game Number,78,Final Scores
+bot1,48.0
+bot2,43.0
+Winner,bot1
+
+79,medium,expert,1,9 ♦,"['9 ♠', '1 ♣']",1 ♣,bot1,9
+79,medium,expert,2,11 ♦,"['11 ♠', '11 ♣']",11 ♣,"['bot1', 'bot2']",11
+79,medium,expert,3,12 ♦,"['12 ♠', '12 ♣']",12 ♣,"['bot1', 'bot2']",12
+79,medium,expert,4,6 ♦,"['6 ♠', '2 ♣']",2 ♣,bot1,6
+79,medium,expert,5,3 ♦,"['3 ♠', '3 ♣']",3 ♣,"['bot1', 'bot2']",3
+79,medium,expert,6,2 ♦,"['2 ♠', '4 ♣']",4 ♣,bot2,2
+79,medium,expert,7,10 ♦,"['10 ♠', '10 ♣']",10 ♣,"['bot1', 'bot2']",10
+79,medium,expert,8,13 ♦,"['13 ♠', '13 ♣']",13 ♣,"['bot1', 'bot2']",13
+79,medium,expert,9,5 ♦,"['5 ♠', '5 ♣']",5 ♣,"['bot1', 'bot2']",5
+79,medium,expert,10,1 ♦,"['1 ♠', '6 ♣']",6 ♣,bot2,1
+79,medium,expert,11,4 ♦,"['4 ♠', '7 ♣']",7 ♣,bot2,4
+79,medium,expert,12,7 ♦,"['7 ♠', '8 ♣']",8 ♣,bot2,7
+79,medium,expert,13,8 ♦,"['8 ♠', '9 ♣']",9 ♣,bot2,8
+
+Game Number,79,Final Scores
+bot1,42.0
+bot2,49.0
+Winner,bot2
+
+80,medium,expert,1,10 ♦,"['10 ♠', '10 ♣']",10 ♣,"['bot1', 'bot2']",10
+80,medium,expert,2,4 ♦,"['4 ♠', '1 ♣']",1 ♣,bot1,4
+80,medium,expert,3,1 ♦,"['1 ♠', '2 ♣']",2 ♣,bot2,1
+80,medium,expert,4,11 ♦,"['11 ♠', '11 ♣']",11 ♣,"['bot1', 'bot2']",11
+80,medium,expert,5,7 ♦,"['7 ♠', '3 ♣']",3 ♣,bot1,7
+80,medium,expert,6,12 ♦,"['12 ♠', '12 ♣']",12 ♣,"['bot1', 'bot2']",12
+80,medium,expert,7,3 ♦,"['3 ♠', '4 ♣']",4 ♣,bot2,3
+80,medium,expert,8,2 ♦,"['2 ♠', '5 ♣']",5 ♣,bot2,2
+80,medium,expert,9,13 ♦,"['13 ♠', '13 ♣']",13 ♣,"['bot1', 'bot2']",13
+80,medium,expert,10,9 ♦,"['9 ♠', '6 ♣']",6 ♣,bot1,9
+80,medium,expert,11,8 ♦,"['8 ♠', '7 ♣']",7 ♣,bot1,8
+80,medium,expert,12,5 ♦,"['5 ♠', '8 ♣']",8 ♣,bot2,5
+80,medium,expert,13,6 ♦,"['6 ♠', '9 ♣']",9 ♣,bot2,6
+
+Game Number,80,Final Scores
+bot1,51.0
+bot2,40.0
+Winner,bot1
+
+81,medium,expert,1,1 ♦,"['1 ♠', '1 ♣']",1 ♣,"['bot1', 'bot2']",1
+81,medium,expert,2,9 ♦,"['9 ♠', '2 ♣']",2 ♣,bot1,9
+81,medium,expert,3,6 ♦,"['6 ♠', '3 ♣']",3 ♣,bot1,6
+81,medium,expert,4,2 ♦,"['2 ♠', '4 ♣']",4 ♣,bot2,2
+81,medium,expert,5,5 ♦,"['5 ♠', '5 ♣']",5 ♣,"['bot1', 'bot2']",5
+81,medium,expert,6,3 ♦,"['3 ♠', '6 ♣']",6 ♣,bot2,3
+81,medium,expert,7,13 ♦,"['13 ♠', '13 ♣']",13 ♣,"['bot1', 'bot2']",13
+81,medium,expert,8,10 ♦,"['10 ♠', '10 ♣']",10 ♣,"['bot1', 'bot2']",10
+81,medium,expert,9,8 ♦,"['8 ♠', '7 ♣']",7 ♣,bot1,8
+81,medium,expert,10,11 ♦,"['11 ♠', '11 ♣']",11 ♣,"['bot1', 'bot2']",11
+81,medium,expert,11,4 ♦,"['4 ♠', '8 ♣']",8 ♣,bot2,4
+81,medium,expert,12,12 ♦,"['12 ♠', '12 ♣']",12 ♣,"['bot1', 'bot2']",12
+81,medium,expert,13,7 ♦,"['7 ♠', '9 ♣']",9 ♣,bot2,7
+
+Game Number,81,Final Scores
+bot1,49.0
+bot2,42.0
+Winner,bot1
+
+82,medium,expert,1,4 ♦,"['4 ♠', '1 ♣']",1 ♣,bot1,4
+82,medium,expert,2,7 ♦,"['7 ♠', '2 ♣']",2 ♣,bot1,7
+82,medium,expert,3,1 ♦,"['1 ♠', '3 ♣']",3 ♣,bot2,1
+82,medium,expert,4,9 ♦,"['9 ♠', '4 ♣']",4 ♣,bot1,9
+82,medium,expert,5,3 ♦,"['3 ♠', '5 ♣']",5 ♣,bot2,3
+82,medium,expert,6,8 ♦,"['8 ♠', '6 ♣']",6 ♣,bot1,8
+82,medium,expert,7,2 ♦,"['2 ♠', '7 ♣']",7 ♣,bot2,2
+82,medium,expert,8,11 ♦,"['11 ♠', '11 ♣']",11 ♣,"['bot1', 'bot2']",11
+82,medium,expert,9,13 ♦,"['13 ♠', '13 ♣']",13 ♣,"['bot1', 'bot2']",13
+82,medium,expert,10,12 ♦,"['12 ♠', '12 ♣']",12 ♣,"['bot1', 'bot2']",12
+82,medium,expert,11,10 ♦,"['10 ♠', '10 ♣']",10 ♣,"['bot1', 'bot2']",10
+82,medium,expert,12,6 ♦,"['6 ♠', '8 ♣']",8 ♣,bot2,6
+82,medium,expert,13,5 ♦,"['5 ♠', '9 ♣']",9 ♣,bot2,5
+
+Game Number,82,Final Scores
+bot1,51.0
+bot2,40.0
+Winner,bot1
+
+83,medium,expert,1,5 ♦,"['5 ♠', '1 ♣']",1 ♣,bot1,5
+83,medium,expert,2,9 ♦,"['9 ♠', '2 ♣']",2 ♣,bot1,9
+83,medium,expert,3,12 ♦,"['12 ♠', '12 ♣']",12 ♣,"['bot1', 'bot2']",12
+83,medium,expert,4,6 ♦,"['6 ♠', '3 ♣']",3 ♣,bot1,6
+83,medium,expert,5,2 ♦,"['2 ♠', '4 ♣']",4 ♣,bot2,2
+83,medium,expert,6,7 ♦,"['7 ♠', '5 ♣']",5 ♣,bot1,7
+83,medium,expert,7,3 ♦,"['3 ♠', '6 ♣']",6 ♣,bot2,3
+83,medium,expert,8,8 ♦,"['8 ♠', '7 ♣']",7 ♣,bot1,8
+83,medium,expert,9,1 ♦,"['1 ♠', '8 ♣']",8 ♣,bot2,1
+83,medium,expert,10,4 ♦,"['4 ♠', '9 ♣']",9 ♣,bot2,4
+83,medium,expert,11,11 ♦,"['11 ♠', '11 ♣']",11 ♣,"['bot1', 'bot2']",11
+83,medium,expert,12,10 ♦,"['10 ♠', '10 ♣']",10 ♣,"['bot1', 'bot2']",10
+83,medium,expert,13,13 ♦,"['13 ♠', '13 ♣']",13 ♣,"['bot1', 'bot2']",13
+
+Game Number,83,Final Scores
+bot1,58.0
+bot2,33.0
+Winner,bot1
+
+84,medium,expert,1,2 ♦,"['2 ♠', '1 ♣']",1 ♣,bot1,2
+84,medium,expert,2,11 ♦,"['11 ♠', '11 ♣']",11 ♣,"['bot1', 'bot2']",11
+84,medium,expert,3,3 ♦,"['3 ♠', '2 ♣']",2 ♣,bot1,3
+84,medium,expert,4,7 ♦,"['7 ♠', '3 ♣']",3 ♣,bot1,7
+84,medium,expert,5,5 ♦,"['5 ♠', '4 ♣']",4 ♣,bot1,5
+84,medium,expert,6,4 ♦,"['4 ♠', '5 ♣']",5 ♣,bot2,4
+84,medium,expert,7,10 ♦,"['10 ♠', '10 ♣']",10 ♣,"['bot1', 'bot2']",10
+84,medium,expert,8,9 ♦,"['9 ♠', '6 ♣']",6 ♣,bot1,9
+84,medium,expert,9,8 ♦,"['8 ♠', '7 ♣']",7 ♣,bot1,8
+84,medium,expert,10,13 ♦,"['13 ♠', '13 ♣']",13 ♣,"['bot1', 'bot2']",13
+84,medium,expert,11,12 ♦,"['12 ♠', '12 ♣']",12 ♣,"['bot1', 'bot2']",12
+84,medium,expert,12,1 ♦,"['1 ♠', '8 ♣']",8 ♣,bot2,1
+84,medium,expert,13,6 ♦,"['6 ♠', '9 ♣']",9 ♣,bot2,6
+
+Game Number,84,Final Scores
+bot1,57.0
+bot2,34.0
+Winner,bot1
+
+85,medium,expert,1,6 ♦,"['6 ♠', '1 ♣']",1 ♣,bot1,6
+85,medium,expert,2,8 ♦,"['8 ♠', '2 ♣']",2 ♣,bot1,8
+85,medium,expert,3,2 ♦,"['2 ♠', '3 ♣']",3 ♣,bot2,2
+85,medium,expert,4,5 ♦,"['5 ♠', '4 ♣']",4 ♣,bot1,5
+85,medium,expert,5,4 ♦,"['4 ♠', '5 ♣']",5 ♣,bot2,4
+85,medium,expert,6,9 ♦,"['9 ♠', '6 ♣']",6 ♣,bot1,9
+85,medium,expert,7,13 ♦,"['13 ♠', '13 ♣']",13 ♣,"['bot1', 'bot2']",13
+85,medium,expert,8,11 ♦,"['11 ♠', '11 ♣']",11 ♣,"['bot1', 'bot2']",11
+85,medium,expert,9,3 ♦,"['3 ♠', '7 ♣']",7 ♣,bot2,3
+85,medium,expert,10,12 ♦,"['12 ♠', '12 ♣']",12 ♣,"['bot1', 'bot2']",12
+85,medium,expert,11,10 ♦,"['10 ♠', '10 ♣']",10 ♣,"['bot1', 'bot2']",10
+85,medium,expert,12,1 ♦,"['1 ♠', '8 ♣']",8 ♣,bot2,1
+85,medium,expert,13,7 ♦,"['7 ♠', '9 ♣']",9 ♣,bot2,7
+
+Game Number,85,Final Scores
+bot1,51.0
+bot2,40.0
+Winner,bot1
+
+86,medium,expert,1,4 ♦,"['4 ♠', '1 ♣']",1 ♣,bot1,4
+86,medium,expert,2,7 ♦,"['7 ♠', '2 ♣']",2 ♣,bot1,7
+86,medium,expert,3,11 ♦,"['11 ♠', '11 ♣']",11 ♣,"['bot1', 'bot2']",11
+86,medium,expert,4,9 ♦,"['9 ♠', '3 ♣']",3 ♣,bot1,9
+86,medium,expert,5,8 ♦,"['8 ♠', '4 ♣']",4 ♣,bot1,8
+86,medium,expert,6,12 ♦,"['12 ♠', '12 ♣']",12 ♣,"['bot1', 'bot2']",12
+86,medium,expert,7,1 ♦,"['1 ♠', '5 ♣']",5 ♣,bot2,1
+86,medium,expert,8,10 ♦,"['10 ♠', '10 ♣']",10 ♣,"['bot1', 'bot2']",10
+86,medium,expert,9,3 ♦,"['3 ♠', '6 ♣']",6 ♣,bot2,3
+86,medium,expert,10,5 ♦,"['5 ♠', '7 ♣']",7 ♣,bot2,5
+86,medium,expert,11,6 ♦,"['6 ♠', '8 ♣']",8 ♣,bot2,6
+86,medium,expert,12,2 ♦,"['2 ♠', '9 ♣']",9 ♣,bot2,2
+86,medium,expert,13,13 ♦,"['13 ♠', '13 ♣']",13 ♣,"['bot1', 'bot2']",13
+
+Game Number,86,Final Scores
+bot1,51.0
+bot2,40.0
+Winner,bot1
+
+87,medium,expert,1,3 ♦,"['3 ♠', '1 ♣']",1 ♣,bot1,3
+87,medium,expert,2,12 ♦,"['12 ♠', '12 ♣']",12 ♣,"['bot1', 'bot2']",12
+87,medium,expert,3,13 ♦,"['13 ♠', '13 ♣']",13 ♣,"['bot1', 'bot2']",13
+87,medium,expert,4,5 ♦,"['5 ♠', '2 ♣']",2 ♣,bot1,5
+87,medium,expert,5,11 ♦,"['11 ♠', '11 ♣']",11 ♣,"['bot1', 'bot2']",11
+87,medium,expert,6,8 ♦,"['8 ♠', '3 ♣']",3 ♣,bot1,8
+87,medium,expert,7,9 ♦,"['9 ♠', '4 ♣']",4 ♣,bot1,9
+87,medium,expert,8,6 ♦,"['6 ♠', '5 ♣']",5 ♣,bot1,6
+87,medium,expert,9,1 ♦,"['1 ♠', '6 ♣']",6 ♣,bot2,1
+87,medium,expert,10,7 ♦,"['7 ♠', '7 ♣']",7 ♣,"['bot1', 'bot2']",7
+87,medium,expert,11,4 ♦,"['4 ♠', '8 ♣']",8 ♣,bot2,4
+87,medium,expert,12,2 ♦,"['2 ♠', '9 ♣']",9 ♣,bot2,2
+87,medium,expert,13,10 ♦,"['10 ♠', '10 ♣']",10 ♣,"['bot1', 'bot2']",10
+
+Game Number,87,Final Scores
+bot1,57.5
+bot2,33.5
+Winner,bot1
+
+88,medium,expert,1,10 ♦,"['10 ♠', '10 ♣']",10 ♣,"['bot1', 'bot2']",10
+88,medium,expert,2,2 ♦,"['2 ♠', '1 ♣']",1 ♣,bot1,2
+88,medium,expert,3,11 ♦,"['11 ♠', '11 ♣']",11 ♣,"['bot1', 'bot2']",11
+88,medium,expert,4,4 ♦,"['4 ♠', '2 ♣']",2 ♣,bot1,4
+88,medium,expert,5,8 ♦,"['8 ♠', '3 ♣']",3 ♣,bot1,8
+88,medium,expert,6,12 ♦,"['12 ♠', '12 ♣']",12 ♣,"['bot1', 'bot2']",12
+88,medium,expert,7,13 ♦,"['13 ♠', '13 ♣']",13 ♣,"['bot1', 'bot2']",13
+88,medium,expert,8,3 ♦,"['3 ♠', '4 ♣']",4 ♣,bot2,3
+88,medium,expert,9,7 ♦,"['7 ♠', '5 ♣']",5 ♣,bot1,7
+88,medium,expert,10,6 ♦,"['6 ♠', '6 ♣']",6 ♣,"['bot1', 'bot2']",6
+88,medium,expert,11,1 ♦,"['1 ♠', '7 ♣']",7 ♣,bot2,1
+88,medium,expert,12,5 ♦,"['5 ♠', '8 ♣']",8 ♣,bot2,5
+88,medium,expert,13,9 ♦,"['9 ♠', '9 ♣']",9 ♣,"['bot1', 'bot2']",9
+
+Game Number,88,Final Scores
+bot1,51.5
+bot2,39.5
+Winner,bot1
+
+89,medium,expert,1,10 ♦,"['10 ♠', '10 ♣']",10 ♣,"['bot1', 'bot2']",10
+89,medium,expert,2,1 ♦,"['1 ♠', '1 ♣']",1 ♣,"['bot1', 'bot2']",1
+89,medium,expert,3,6 ♦,"['6 ♠', '2 ♣']",2 ♣,bot1,6
+89,medium,expert,4,12 ♦,"['12 ♠', '12 ♣']",12 ♣,"['bot1', 'bot2']",12
+89,medium,expert,5,11 ♦,"['11 ♠', '11 ♣']",11 ♣,"['bot1', 'bot2']",11
+89,medium,expert,6,13 ♦,"['13 ♠', '13 ♣']",13 ♣,"['bot1', 'bot2']",13
+89,medium,expert,7,2 ♦,"['2 ♠', '3 ♣']",3 ♣,bot2,2
+89,medium,expert,8,4 ♦,"['4 ♠', '4 ♣']",4 ♣,"['bot1', 'bot2']",4
+89,medium,expert,9,5 ♦,"['5 ♠', '5 ♣']",5 ♣,"['bot1', 'bot2']",5
+89,medium,expert,10,7 ♦,"['7 ♠', '6 ♣']",6 ♣,bot1,7
+89,medium,expert,11,9 ♦,"['9 ♠', '7 ♣']",7 ♣,bot1,9
+89,medium,expert,12,8 ♦,"['8 ♠', '8 ♣']",8 ♣,"['bot1', 'bot2']",8
+89,medium,expert,13,3 ♦,"['3 ♠', '9 ♣']",9 ♣,bot2,3
+
+Game Number,89,Final Scores
+bot1,54.0
+bot2,37.0
+Winner,bot1
+
+90,medium,expert,1,1 ♦,"['1 ♠', '1 ♣']",1 ♣,"['bot1', 'bot2']",1
+90,medium,expert,2,7 ♦,"['7 ♠', '2 ♣']",2 ♣,bot1,7
+90,medium,expert,3,13 ♦,"['13 ♠', '13 ♣']",13 ♣,"['bot1', 'bot2']",13
+90,medium,expert,4,10 ♦,"['10 ♠', '10 ♣']",10 ♣,"['bot1', 'bot2']",10
+90,medium,expert,5,8 ♦,"['8 ♠', '3 ♣']",3 ♣,bot1,8
+90,medium,expert,6,5 ♦,"['5 ♠', '4 ♣']",4 ♣,bot1,5
+90,medium,expert,7,3 ♦,"['3 ♠', '5 ♣']",5 ♣,bot2,3
+90,medium,expert,8,6 ♦,"['6 ♠', '6 ♣']",6 ♣,"['bot1', 'bot2']",6
+90,medium,expert,9,11 ♦,"['11 ♠', '11 ♣']",11 ♣,"['bot1', 'bot2']",11
+90,medium,expert,10,12 ♦,"['12 ♠', '12 ♣']",12 ♣,"['bot1', 'bot2']",12
+90,medium,expert,11,2 ♦,"['2 ♠', '7 ♣']",7 ♣,bot2,2
+90,medium,expert,12,9 ♦,"['9 ♠', '8 ♣']",8 ♣,bot1,9
+90,medium,expert,13,4 ♦,"['4 ♠', '9 ♣']",9 ♣,bot2,4
+
+Game Number,90,Final Scores
+bot1,55.5
+bot2,35.5
+Winner,bot1
+
+91,medium,expert,1,3 ♦,"['3 ♠', '1 ♣']",1 ♣,bot1,3
+91,medium,expert,2,5 ♦,"['5 ♠', '2 ♣']",2 ♣,bot1,5
+91,medium,expert,3,6 ♦,"['6 ♠', '3 ♣']",3 ♣,bot1,6
+91,medium,expert,4,11 ♦,"['11 ♠', '11 ♣']",11 ♣,"['bot1', 'bot2']",11
+91,medium,expert,5,9 ♦,"['9 ♠', '4 ♣']",4 ♣,bot1,9
+91,medium,expert,6,13 ♦,"['13 ♠', '13 ♣']",13 ♣,"['bot1', 'bot2']",13
+91,medium,expert,7,12 ♦,"['12 ♠', '12 ♣']",12 ♣,"['bot1', 'bot2']",12
+91,medium,expert,8,10 ♦,"['10 ♠', '10 ♣']",10 ♣,"['bot1', 'bot2']",10
+91,medium,expert,9,2 ♦,"['2 ♠', '5 ♣']",5 ♣,bot2,2
+91,medium,expert,10,4 ♦,"['4 ♠', '6 ♣']",6 ♣,bot2,4
+91,medium,expert,11,7 ♦,"['7 ♠', '7 ♣']",7 ♣,"['bot1', 'bot2']",7
+91,medium,expert,12,1 ♦,"['1 ♠', '8 ♣']",8 ♣,bot2,1
+91,medium,expert,13,8 ♦,"['8 ♠', '9 ♣']",9 ♣,bot2,8
+
+Game Number,91,Final Scores
+bot1,49.5
+bot2,41.5
+Winner,bot1
+
+92,medium,expert,1,4 ♦,"['4 ♠', '1 ♣']",1 ♣,bot1,4
+92,medium,expert,2,8 ♦,"['8 ♠', '2 ♣']",2 ♣,bot1,8
+92,medium,expert,3,9 ♦,"['9 ♠', '3 ♣']",3 ♣,bot1,9
+92,medium,expert,4,1 ♦,"['1 ♠', '4 ♣']",4 ♣,bot2,1
+92,medium,expert,5,6 ♦,"['6 ♠', '5 ♣']",5 ♣,bot1,6
+92,medium,expert,6,7 ♦,"['7 ♠', '6 ♣']",6 ♣,bot1,7
+92,medium,expert,7,2 ♦,"['2 ♠', '7 ♣']",7 ♣,bot2,2
+92,medium,expert,8,5 ♦,"['5 ♠', '8 ♣']",8 ♣,bot2,5
+92,medium,expert,9,12 ♦,"['12 ♠', '12 ♣']",12 ♣,"['bot1', 'bot2']",12
+92,medium,expert,10,10 ♦,"['10 ♠', '10 ♣']",10 ♣,"['bot1', 'bot2']",10
+92,medium,expert,11,3 ♦,"['3 ♠', '9 ♣']",9 ♣,bot2,3
+92,medium,expert,12,11 ♦,"['11 ♠', '11 ♣']",11 ♣,"['bot1', 'bot2']",11
+92,medium,expert,13,13 ♦,"['13 ♠', '13 ♣']",13 ♣,"['bot1', 'bot2']",13
+
+Game Number,92,Final Scores
+bot1,57.0
+bot2,34.0
+Winner,bot1
+
+93,medium,expert,1,12 ♦,"['12 ♠', '12 ♣']",12 ♣,"['bot1', 'bot2']",12
+93,medium,expert,2,3 ♦,"['3 ♠', '1 ♣']",1 ♣,bot1,3
+93,medium,expert,3,1 ♦,"['1 ♠', '2 ♣']",2 ♣,bot2,1
+93,medium,expert,4,4 ♦,"['4 ♠', '3 ♣']",3 ♣,bot1,4
+93,medium,expert,5,6 ♦,"['6 ♠', '4 ♣']",4 ♣,bot1,6
+93,medium,expert,6,9 ♦,"['9 ♠', '5 ♣']",5 ♣,bot1,9
+93,medium,expert,7,5 ♦,"['5 ♠', '6 ♣']",6 ♣,bot2,5
+93,medium,expert,8,11 ♦,"['11 ♠', '11 ♣']",11 ♣,"['bot1', 'bot2']",11
+93,medium,expert,9,7 ♦,"['7 ♠', '7 ♣']",7 ♣,"['bot1', 'bot2']",7
+93,medium,expert,10,10 ♦,"['10 ♠', '10 ♣']",10 ♣,"['bot1', 'bot2']",10
+93,medium,expert,11,13 ♦,"['13 ♠', '13 ♣']",13 ♣,"['bot1', 'bot2']",13
+93,medium,expert,12,8 ♦,"['8 ♠', '8 ♣']",8 ♣,"['bot1', 'bot2']",8
+93,medium,expert,13,2 ♦,"['2 ♠', '9 ♣']",9 ♣,bot2,2
+
+Game Number,93,Final Scores
+bot1,52.5
+bot2,38.5
+Winner,bot1
+
+94,medium,expert,1,2 ♦,"['2 ♠', '1 ♣']",1 ♣,bot1,2
+94,medium,expert,2,10 ♦,"['10 ♠', '10 ♣']",10 ♣,"['bot1', 'bot2']",10
+94,medium,expert,3,6 ♦,"['6 ♠', '2 ♣']",2 ♣,bot1,6
+94,medium,expert,4,12 ♦,"['12 ♠', '12 ♣']",12 ♣,"['bot1', 'bot2']",12
+94,medium,expert,5,5 ♦,"['5 ♠', '3 ♣']",3 ♣,bot1,5
+94,medium,expert,6,11 ♦,"['11 ♠', '11 ♣']",11 ♣,"['bot1', 'bot2']",11
+94,medium,expert,7,4 ♦,"['4 ♠', '4 ♣']",4 ♣,"['bot1', 'bot2']",4
+94,medium,expert,8,3 ♦,"['3 ♠', '5 ♣']",5 ♣,bot2,3
+94,medium,expert,9,13 ♦,"['13 ♠', '13 ♣']",13 ♣,"['bot1', 'bot2']",13
+94,medium,expert,10,7 ♦,"['7 ♠', '6 ♣']",6 ♣,bot1,7
+94,medium,expert,11,8 ♦,"['8 ♠', '7 ♣']",7 ♣,bot1,8
+94,medium,expert,12,1 ♦,"['1 ♠', '8 ♣']",8 ♣,bot2,1
+94,medium,expert,13,9 ♦,"['9 ♠', '9 ♣']",9 ♣,"['bot1', 'bot2']",9
+
+Game Number,94,Final Scores
+bot1,57.5
+bot2,33.5
+Winner,bot1
+
+95,medium,expert,1,4 ♦,"['4 ♠', '1 ♣']",1 ♣,bot1,4
+95,medium,expert,2,11 ♦,"['11 ♠', '11 ♣']",11 ♣,"['bot1', 'bot2']",11
+95,medium,expert,3,10 ♦,"['10 ♠', '10 ♣']",10 ♣,"['bot1', 'bot2']",10
+95,medium,expert,4,8 ♦,"['8 ♠', '2 ♣']",2 ♣,bot1,8
+95,medium,expert,5,7 ♦,"['7 ♠', '3 ♣']",3 ♣,bot1,7
+95,medium,expert,6,2 ♦,"['2 ♠', '4 ♣']",4 ♣,bot2,2
+95,medium,expert,7,12 ♦,"['12 ♠', '12 ♣']",12 ♣,"['bot1', 'bot2']",12
+95,medium,expert,8,9 ♦,"['9 ♠', '5 ♣']",5 ♣,bot1,9
+95,medium,expert,9,6 ♦,"['6 ♠', '6 ♣']",6 ♣,"['bot1', 'bot2']",6
+95,medium,expert,10,5 ♦,"['5 ♠', '7 ♣']",7 ♣,bot2,5
+95,medium,expert,11,1 ♦,"['1 ♠', '8 ♣']",8 ♣,bot2,1
+95,medium,expert,12,13 ♦,"['13 ♠', '13 ♣']",13 ♣,"['bot1', 'bot2']",13
+95,medium,expert,13,3 ♦,"['3 ♠', '9 ♣']",9 ♣,bot2,3
+
+Game Number,95,Final Scores
+bot1,54.0
+bot2,37.0
+Winner,bot1
+
+96,medium,expert,1,7 ♦,"['7 ♠', '1 ♣']",1 ♣,bot1,7
+96,medium,expert,2,8 ♦,"['8 ♠', '2 ♣']",2 ♣,bot1,8
+96,medium,expert,3,4 ♦,"['4 ♠', '3 ♣']",3 ♣,bot1,4
+96,medium,expert,4,9 ♦,"['9 ♠', '4 ♣']",4 ♣,bot1,9
+96,medium,expert,5,6 ♦,"['6 ♠', '5 ♣']",5 ♣,bot1,6
+96,medium,expert,6,1 ♦,"['1 ♠', '6 ♣']",6 ♣,bot2,1
+96,medium,expert,7,5 ♦,"['5 ♠', '7 ♣']",7 ♣,bot2,5
+96,medium,expert,8,10 ♦,"['10 ♠', '10 ♣']",10 ♣,"['bot1', 'bot2']",10
+96,medium,expert,9,2 ♦,"['2 ♠', '8 ♣']",8 ♣,bot2,2
+96,medium,expert,10,12 ♦,"['12 ♠', '12 ♣']",12 ♣,"['bot1', 'bot2']",12
+96,medium,expert,11,11 ♦,"['11 ♠', '11 ♣']",11 ♣,"['bot1', 'bot2']",11
+96,medium,expert,12,13 ♦,"['13 ♠', '13 ♣']",13 ♣,"['bot1', 'bot2']",13
+96,medium,expert,13,3 ♦,"['3 ♠', '9 ♣']",9 ♣,bot2,3
+
+Game Number,96,Final Scores
+bot1,57.0
+bot2,34.0
+Winner,bot1
+
+97,medium,expert,1,2 ♦,"['2 ♠', '1 ♣']",1 ♣,bot1,2
+97,medium,expert,2,12 ♦,"['12 ♠', '12 ♣']",12 ♣,"['bot1', 'bot2']",12
+97,medium,expert,3,1 ♦,"['1 ♠', '2 ♣']",2 ♣,bot2,1
+97,medium,expert,4,11 ♦,"['11 ♠', '11 ♣']",11 ♣,"['bot1', 'bot2']",11
+97,medium,expert,5,6 ♦,"['6 ♠', '3 ♣']",3 ♣,bot1,6
+97,medium,expert,6,8 ♦,"['8 ♠', '4 ♣']",4 ♣,bot1,8
+97,medium,expert,7,9 ♦,"['9 ♠', '5 ♣']",5 ♣,bot1,9
+97,medium,expert,8,4 ♦,"['4 ♠', '6 ♣']",6 ♣,bot2,4
+97,medium,expert,9,7 ♦,"['7 ♠', '7 ♣']",7 ♣,"['bot1', 'bot2']",7
+97,medium,expert,10,3 ♦,"['3 ♠', '8 ♣']",8 ♣,bot2,3
+97,medium,expert,11,10 ♦,"['10 ♠', '10 ♣']",10 ♣,"['bot1', 'bot2']",10
+97,medium,expert,12,13 ♦,"['13 ♠', '13 ♣']",13 ♣,"['bot1', 'bot2']",13
+97,medium,expert,13,5 ♦,"['5 ♠', '9 ♣']",9 ♣,bot2,5
+
+Game Number,97,Final Scores
+bot1,51.5
+bot2,39.5
+Winner,bot1
+
+98,medium,expert,1,8 ♦,"['8 ♠', '1 ♣']",1 ♣,bot1,8
+98,medium,expert,2,10 ♦,"['10 ♠', '10 ♣']",10 ♣,"['bot1', 'bot2']",10
+98,medium,expert,3,11 ♦,"['11 ♠', '11 ♣']",11 ♣,"['bot1', 'bot2']",11
+98,medium,expert,4,12 ♦,"['12 ♠', '12 ♣']",12 ♣,"['bot1', 'bot2']",12
+98,medium,expert,5,3 ♦,"['3 ♠', '2 ♣']",2 ♣,bot1,3
+98,medium,expert,6,9 ♦,"['9 ♠', '3 ♣']",3 ♣,bot1,9
+98,medium,expert,7,5 ♦,"['5 ♠', '4 ♣']",4 ♣,bot1,5
+98,medium,expert,8,6 ♦,"['6 ♠', '5 ♣']",5 ♣,bot1,6
+98,medium,expert,9,4 ♦,"['4 ♠', '6 ♣']",6 ♣,bot2,4
+98,medium,expert,10,2 ♦,"['2 ♠', '7 ♣']",7 ♣,bot2,2
+98,medium,expert,11,1 ♦,"['1 ♠', '8 ♣']",8 ♣,bot2,1
+98,medium,expert,12,13 ♦,"['13 ♠', '13 ♣']",13 ♣,"['bot1', 'bot2']",13
+98,medium,expert,13,7 ♦,"['7 ♠', '9 ♣']",9 ♣,bot2,7
+
+Game Number,98,Final Scores
+bot1,54.0
+bot2,37.0
+Winner,bot1
+
+99,medium,expert,1,4 ♦,"['4 ♠', '1 ♣']",1 ♣,bot1,4
+99,medium,expert,2,3 ♦,"['3 ♠', '2 ♣']",2 ♣,bot1,3
+99,medium,expert,3,9 ♦,"['9 ♠', '3 ♣']",3 ♣,bot1,9
+99,medium,expert,4,10 ♦,"['10 ♠', '10 ♣']",10 ♣,"['bot1', 'bot2']",10
+99,medium,expert,5,12 ♦,"['12 ♠', '12 ♣']",12 ♣,"['bot1', 'bot2']",12
+99,medium,expert,6,13 ♦,"['13 ♠', '13 ♣']",13 ♣,"['bot1', 'bot2']",13
+99,medium,expert,7,2 ♦,"['2 ♠', '4 ♣']",4 ♣,bot2,2
+99,medium,expert,8,8 ♦,"['8 ♠', '5 ♣']",5 ♣,bot1,8
+99,medium,expert,9,1 ♦,"['1 ♠', '6 ♣']",6 ♣,bot2,1
+99,medium,expert,10,6 ♦,"['6 ♠', '7 ♣']",7 ♣,bot2,6
+99,medium,expert,11,7 ♦,"['7 ♠', '8 ♣']",8 ♣,bot2,7
+99,medium,expert,12,11 ♦,"['11 ♠', '11 ♣']",11 ♣,"['bot1', 'bot2']",11
+99,medium,expert,13,5 ♦,"['5 ♠', '9 ♣']",9 ♣,bot2,5
+
+Game Number,99,Final Scores
+bot1,47.0
+bot2,44.0
+Winner,bot1
+
+100,medium,expert,1,2 ♦,"['2 ♠', '1 ♣']",1 ♣,bot1,2
+100,medium,expert,2,4 ♦,"['4 ♠', '2 ♣']",2 ♣,bot1,4
+100,medium,expert,3,6 ♦,"['6 ♠', '3 ♣']",3 ♣,bot1,6
+100,medium,expert,4,11 ♦,"['11 ♠', '11 ♣']",11 ♣,"['bot1', 'bot2']",11
+100,medium,expert,5,7 ♦,"['7 ♠', '4 ♣']",4 ♣,bot1,7
+100,medium,expert,6,1 ♦,"['1 ♠', '5 ♣']",5 ♣,bot2,1
+100,medium,expert,7,12 ♦,"['12 ♠', '12 ♣']",12 ♣,"['bot1', 'bot2']",12
+100,medium,expert,8,9 ♦,"['9 ♠', '6 ♣']",6 ♣,bot1,9
+100,medium,expert,9,5 ♦,"['5 ♠', '7 ♣']",7 ♣,bot2,5
+100,medium,expert,10,8 ♦,"['8 ♠', '8 ♣']",8 ♣,"['bot1', 'bot2']",8
+100,medium,expert,11,13 ♦,"['13 ♠', '13 ♣']",13 ♣,"['bot1', 'bot2']",13
+100,medium,expert,12,3 ♦,"['3 ♠', '9 ♣']",9 ♣,bot2,3
+100,medium,expert,13,10 ♦,"['10 ♠', '10 ♣']",10 ♣,"['bot1', 'bot2']",10
+
+Game Number,100,Final Scores
+bot1,55.0
+bot2,36.0
+Winner,bot1
+
